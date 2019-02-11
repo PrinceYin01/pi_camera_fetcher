@@ -1,0 +1,1772 @@
+2019-02-11 07:12:54,481 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:12:54.avi
+2019-02-11 07:13:15,534 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:13:15,669 INFO check_avi_face starting video stream...
+2019-02-11 07:13:15,671 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:12:54.avi
+2019-02-11 07:13:29,024 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:12:54.avi:no faces in videos
+2019-02-11 07:20:02,236 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:02.avi
+2019-02-11 07:20:16,111 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:16.avi
+2019-02-11 07:20:37,173 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:20:37,369 INFO check_avi_face starting video stream...
+2019-02-11 07:20:37,370 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:02.avi
+2019-02-11 07:20:56,575 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:16.avi
+2019-02-11 07:21:14,376 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:02.avi
+2019-02-11 07:21:14,377 INFO root 2019-02-11_07:20:02.avi
+2019-02-11 07:21:19,279 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:20:16.avi:no faces in videos
+2019-02-11 07:21:19,291 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:19.avi
+2019-02-11 07:21:27,741 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:27.avi
+2019-02-11 07:21:30,489 INFO root send email is ok
+2019-02-11 07:21:30,516 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 07:21:30,518 INFO face_to_email_send finish send email
+2019-02-11 07:21:35,945 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:35.avi
+2019-02-11 07:21:57,114 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:21:57,254 INFO check_avi_face starting video stream...
+2019-02-11 07:21:57,255 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:19.avi
+2019-02-11 07:22:09,507 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:22:09.avi
+2019-02-11 07:22:17,989 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:27.avi
+2019-02-11 07:22:30,611 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:22:30,865 INFO check_avi_face starting video stream...
+2019-02-11 07:22:30,885 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:22:09.avi
+2019-02-11 07:22:38,275 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:35.avi
+2019-02-11 07:23:07,558 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:19.avi:no faces in videos
+2019-02-11 07:23:07,559 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:27.avi:no faces in videos
+2019-02-11 07:23:07,560 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:21:35.avi
+2019-02-11 07:23:07,561 INFO root 2019-02-11_07:21:35.avi
+2019-02-11 07:23:15,987 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:22:09.avi:no faces in videos
+2019-02-11 07:23:21,953 INFO root send email is ok
+2019-02-11 07:23:21,995 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 07:23:21,996 INFO face_to_email_send finish send email
+2019-02-11 07:24:14,272 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:24:14.avi
+2019-02-11 07:24:35,305 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:24:35,431 INFO check_avi_face starting video stream...
+2019-02-11 07:24:35,432 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:24:14.avi
+2019-02-11 07:24:55,032 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:24:14.avi:no faces in videos
+2019-02-11 07:45:57,132 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:45:57.avi
+2019-02-11 07:46:18,104 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:46:18,238 INFO check_avi_face starting video stream...
+2019-02-11 07:46:18,240 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:45:57.avi
+2019-02-11 07:46:35,288 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:45:57.avi:no faces in videos
+2019-02-11 07:51:37,080 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:51:37.avi
+2019-02-11 07:51:58,107 INFO check_avi_face loading encodings + face detector...
+2019-02-11 07:51:58,231 INFO check_avi_face starting video stream...
+2019-02-11 07:51:58,232 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:51:37.avi
+2019-02-11 07:52:14,802 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_07:51:37.avi:no faces in videos
+2019-02-11 08:09:43,613 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:43.avi
+2019-02-11 08:09:49,119 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:49.avi
+2019-02-11 08:10:10,149 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:10:10,339 INFO check_avi_face starting video stream...
+2019-02-11 08:10:10,341 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:43.avi
+2019-02-11 08:10:12,335 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:10:12.avi
+2019-02-11 08:10:28,745 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:49.avi
+2019-02-11 08:10:33,429 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:10:33,625 INFO check_avi_face starting video stream...
+2019-02-11 08:10:33,638 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:10:12.avi
+2019-02-11 08:11:14,252 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:10:12.avi:no faces in videos
+2019-02-11 08:11:34,149 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:43.avi
+2019-02-11 08:11:34,152 INFO root 2019-02-11_08:09:43.avi
+2019-02-11 08:11:39,967 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:09:49.avi
+2019-02-11 08:11:39,968 INFO root 2019-02-11_08:09:49.avi
+2019-02-11 08:12:13,834 INFO root send email is ok
+2019-02-11 08:12:13,866 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 08:12:13,867 INFO face_to_email_send finish send email
+2019-02-11 08:16:42,652 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:16:42.avi
+2019-02-11 08:17:03,744 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:17:03,879 INFO check_avi_face starting video stream...
+2019-02-11 08:17:03,880 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:16:42.avi
+2019-02-11 08:17:08,967 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:17:08.avi
+2019-02-11 08:17:17,976 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:16:42.avi:no faces in videos
+2019-02-11 08:17:29,959 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:17:30,093 INFO check_avi_face starting video stream...
+2019-02-11 08:17:30,094 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:17:08.avi
+2019-02-11 08:17:45,181 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:17:08.avi:no faces in videos
+2019-02-11 08:18:37,890 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:37.avi
+2019-02-11 08:18:57,392 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:57.avi
+2019-02-11 08:19:09,266 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:09.avi
+2019-02-11 08:19:12,314 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:12.avi
+2019-02-11 08:19:14,888 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:14.avi
+2019-02-11 08:19:29,187 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:29.avi
+2019-02-11 08:19:50,200 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:19:50,333 INFO check_avi_face starting video stream...
+2019-02-11 08:19:50,335 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:37.avi
+2019-02-11 08:20:30,199 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:57.avi
+2019-02-11 08:20:52,552 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:09.avi
+2019-02-11 08:21:06,906 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:12.avi
+2019-02-11 08:21:21,197 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:14.avi
+2019-02-11 08:22:15,231 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:29.avi
+2019-02-11 08:23:13,642 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:37.avi
+2019-02-11 08:23:13,643 INFO root 2019-02-11_08:18:37.avi
+2019-02-11 08:23:24,904 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:18:57.avi:no faces in videos
+2019-02-11 08:23:24,906 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:09.avi:no faces in videos
+2019-02-11 08:23:24,908 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:12.avi:no faces in videos
+2019-02-11 08:23:24,909 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:14.avi
+2019-02-11 08:23:24,909 INFO root 2019-02-11_08:19:14.avi
+2019-02-11 08:23:41,011 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:19:29.avi
+2019-02-11 08:23:41,012 INFO root 2019-02-11_08:19:29.avi
+2019-02-11 08:24:49,290 INFO root send email is ok
+2019-02-11 08:24:49,336 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 08:24:49,337 INFO face_to_email_send finish send email
+2019-02-11 08:31:57,674 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:31:57.avi
+2019-02-11 08:32:12,365 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:12.avi
+2019-02-11 08:32:19,133 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:19.avi
+2019-02-11 08:32:40,205 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:32:40,389 INFO check_avi_face starting video stream...
+2019-02-11 08:32:40,390 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:31:57.avi
+2019-02-11 08:33:23,215 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:12.avi
+2019-02-11 08:33:50,079 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:19.avi
+2019-02-11 08:33:52,853 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:33:52.avi
+2019-02-11 08:34:04,121 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:31:57.avi
+2019-02-11 08:34:04,122 INFO root 2019-02-11_08:31:57.avi
+2019-02-11 08:34:14,522 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:34:14,675 INFO check_avi_face starting video stream...
+2019-02-11 08:34:14,688 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:33:52.avi
+2019-02-11 08:34:14,972 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:34:14.avi
+2019-02-11 08:34:15,468 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:12.avi:no faces in videos
+2019-02-11 08:34:15,472 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:32:19.avi:no faces in videos
+2019-02-11 08:34:26,395 INFO root send email is ok
+2019-02-11 08:34:26,411 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 08:34:26,427 INFO face_to_email_send finish send email
+2019-02-11 08:34:32,773 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:33:52.avi:no faces in videos
+2019-02-11 08:34:35,862 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:34:36,023 INFO check_avi_face starting video stream...
+2019-02-11 08:34:36,025 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:34:14.avi
+2019-02-11 08:34:50,046 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:34:14.avi:no faces in videos
+2019-02-11 08:45:06,336 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:45:06.avi
+2019-02-11 08:45:27,428 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:45:27,611 INFO check_avi_face starting video stream...
+2019-02-11 08:45:27,613 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:45:06.avi
+2019-02-11 08:45:45,433 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:45:06.avi:no faces in videos
+2019-02-11 08:48:14,508 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:48:14.avi
+2019-02-11 08:48:35,664 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:48:35,799 INFO check_avi_face starting video stream...
+2019-02-11 08:48:35,800 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:48:14.avi
+2019-02-11 08:49:02,200 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:48:14.avi:no faces in videos
+2019-02-11 08:58:49,925 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:58:49.avi
+2019-02-11 08:59:11,015 INFO check_avi_face loading encodings + face detector...
+2019-02-11 08:59:11,162 INFO check_avi_face starting video stream...
+2019-02-11 08:59:11,164 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:58:49.avi
+2019-02-11 08:59:37,470 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_08:58:49.avi
+2019-02-11 08:59:37,471 INFO root 2019-02-11_08:58:49.avi
+2019-02-11 08:59:55,676 INFO root send email is ok
+2019-02-11 08:59:55,695 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 08:59:55,696 INFO face_to_email_send finish send email
+2019-02-11 09:00:08,857 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:08.avi
+2019-02-11 09:00:29,946 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:00:30,138 INFO check_avi_face starting video stream...
+2019-02-11 09:00:30,140 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:08.avi
+2019-02-11 09:00:36,127 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:36.avi
+2019-02-11 09:00:57,347 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:00:57,509 INFO check_avi_face starting video stream...
+2019-02-11 09:00:57,511 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:36.avi
+2019-02-11 09:01:03,287 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:03.avi
+2019-02-11 09:01:03,356 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:08.avi
+2019-02-11 09:01:03,358 INFO root 2019-02-11_09:00:08.avi
+2019-02-11 09:01:24,431 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:01:24,710 INFO check_avi_face starting video stream...
+2019-02-11 09:01:24,712 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:03.avi
+2019-02-11 09:01:28,554 INFO root send email is ok
+2019-02-11 09:01:28,587 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:01:28,590 INFO face_to_email_send finish send email
+2019-02-11 09:01:42,439 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:42.avi
+2019-02-11 09:02:00,639 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:02:00.avi
+2019-02-11 09:02:02,325 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:03.avi:no faces in videos
+2019-02-11 09:02:04,902 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:00:36.avi
+2019-02-11 09:02:04,903 INFO root 2019-02-11_09:00:36.avi
+2019-02-11 09:02:23,639 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:02:23,776 INFO check_avi_face starting video stream...
+2019-02-11 09:02:23,778 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:42.avi
+2019-02-11 09:02:29,811 INFO root send email is ok
+2019-02-11 09:02:29,865 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:02:29,866 INFO face_to_email_send finish send email
+2019-02-11 09:02:59,522 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:02:00.avi
+2019-02-11 09:03:40,105 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:01:42.avi
+2019-02-11 09:03:40,107 INFO root 2019-02-11_09:01:42.avi
+2019-02-11 09:03:52,176 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:02:00.avi:no faces in videos
+2019-02-11 09:04:11,064 INFO root send email is ok
+2019-02-11 09:04:11,094 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:04:11,095 INFO face_to_email_send finish send email
+2019-02-11 09:04:57,676 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:04:57.avi
+2019-02-11 09:05:18,706 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:05:18,891 INFO check_avi_face starting video stream...
+2019-02-11 09:05:18,893 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:04:57.avi
+2019-02-11 09:05:47,742 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:04:57.avi
+2019-02-11 09:05:47,743 INFO root 2019-02-11_09:04:57.avi
+2019-02-11 09:06:16,307 INFO root send email is ok
+2019-02-11 09:06:16,361 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:06:16,363 INFO face_to_email_send finish send email
+2019-02-11 09:15:02,504 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:02.avi
+2019-02-11 09:15:23,563 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:15:23,693 INFO check_avi_face starting video stream...
+2019-02-11 09:15:23,698 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:02.avi
+2019-02-11 09:15:25,427 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:25.avi
+2019-02-11 09:15:46,493 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:15:46,649 INFO check_avi_face starting video stream...
+2019-02-11 09:15:46,651 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:25.avi
+2019-02-11 09:15:56,918 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:56.avi
+2019-02-11 09:16:17,987 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:16:18,211 INFO check_avi_face starting video stream...
+2019-02-11 09:16:18,214 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:56.avi
+2019-02-11 09:16:52,323 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:56.avi:no faces in videos
+2019-02-11 09:16:59,719 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:02.avi
+2019-02-11 09:16:59,728 INFO root 2019-02-11_09:15:02.avi
+2019-02-11 09:17:16,882 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:17:16.avi
+2019-02-11 09:17:22,167 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:15:25.avi:no faces in videos
+2019-02-11 09:17:37,658 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:17:37,812 INFO check_avi_face starting video stream...
+2019-02-11 09:17:37,813 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:17:16.avi
+2019-02-11 09:17:51,488 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:17:16.avi:no faces in videos
+2019-02-11 09:18:19,803 INFO root send email is ok
+2019-02-11 09:18:19,830 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:18:19,831 INFO face_to_email_send finish send email
+2019-02-11 09:19:12,383 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:19:12.avi
+2019-02-11 09:19:35,169 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:19:35,289 INFO check_avi_face starting video stream...
+2019-02-11 09:19:35,290 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:19:12.avi
+2019-02-11 09:21:03,582 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:19:12.avi
+2019-02-11 09:21:03,583 INFO root 2019-02-11_09:19:12.avi
+2019-02-11 09:21:38,706 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:38.avi
+2019-02-11 09:21:48,907 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:48.avi
+2019-02-11 09:22:02,879 INFO root send email is ok
+2019-02-11 09:22:02,932 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:22:02,933 INFO face_to_email_send finish send email
+2019-02-11 09:22:06,852 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:22:06.avi
+2019-02-11 09:22:27,901 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:22:28,042 INFO check_avi_face starting video stream...
+2019-02-11 09:22:28,043 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:38.avi
+2019-02-11 09:22:41,257 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:48.avi
+2019-02-11 09:22:53,525 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:22:06.avi
+2019-02-11 09:23:07,155 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:38.avi:no faces in videos
+2019-02-11 09:23:07,156 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:21:48.avi:no faces in videos
+2019-02-11 09:23:07,157 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:22:06.avi:no faces in videos
+2019-02-11 09:23:47,148 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:23:47.avi
+2019-02-11 09:24:08,210 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:24:08,403 INFO check_avi_face starting video stream...
+2019-02-11 09:24:08,406 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:23:47.avi
+2019-02-11 09:24:33,624 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:23:47.avi:no faces in videos
+2019-02-11 09:25:19,072 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:19.avi
+2019-02-11 09:25:30,542 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:30.avi
+2019-02-11 09:25:40,890 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:40.avi
+2019-02-11 09:25:52,823 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:52.avi
+2019-02-11 09:25:56,398 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:56.avi
+2019-02-11 09:26:10,008 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:10.avi
+2019-02-11 09:26:30,725 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:30.avi
+2019-02-11 09:26:34,377 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:34.avi
+2019-02-11 09:26:40,082 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:40.avi
+2019-02-11 09:26:44,754 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:44.avi
+2019-02-11 09:26:58,660 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:58.avi
+2019-02-11 09:27:19,825 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:27:20,003 INFO check_avi_face starting video stream...
+2019-02-11 09:27:20,006 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:19.avi
+2019-02-11 09:27:56,566 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:30.avi
+2019-02-11 09:28:21,861 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:40.avi
+2019-02-11 09:28:37,982 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:52.avi
+2019-02-11 09:28:40,587 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:28:40.avi
+2019-02-11 09:28:53,112 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:56.avi
+2019-02-11 09:29:01,807 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:29:01,993 INFO check_avi_face starting video stream...
+2019-02-11 09:29:02,007 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:28:40.avi
+2019-02-11 09:29:10,146 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:10.avi
+2019-02-11 09:29:52,923 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:28:40.avi:no faces in videos
+2019-02-11 09:30:11,552 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:30.avi
+2019-02-11 09:30:14,749 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:30:14.avi
+2019-02-11 09:30:26,056 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:34.avi
+2019-02-11 09:30:35,947 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:30:36,189 INFO check_avi_face starting video stream...
+2019-02-11 09:30:36,191 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:30:14.avi
+2019-02-11 09:30:54,479 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:40.avi
+2019-02-11 09:31:00,141 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:30:14.avi:no faces in videos
+2019-02-11 09:31:09,287 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:44.avi
+2019-02-11 09:31:23,726 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:58.avi
+2019-02-11 09:31:43,109 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:31:43.avi
+2019-02-11 09:32:04,527 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:32:04,714 INFO check_avi_face starting video stream...
+2019-02-11 09:32:04,716 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:31:43.avi
+2019-02-11 09:32:25,807 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:32:25.avi
+2019-02-11 09:32:31,898 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:19.avi
+2019-02-11 09:32:31,915 INFO root 2019-02-11_09:25:19.avi
+2019-02-11 09:32:42,525 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:31:43.avi:no faces in videos
+2019-02-11 09:32:42,612 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:30.avi:no faces in videos
+2019-02-11 09:32:42,614 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:40.avi:no faces in videos
+2019-02-11 09:32:42,615 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:52.avi:no faces in videos
+2019-02-11 09:32:42,616 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:25:56.avi:no faces in videos
+2019-02-11 09:32:42,618 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:10.avi:no faces in videos
+2019-02-11 09:32:42,619 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:30.avi:no faces in videos
+2019-02-11 09:32:42,620 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:34.avi:no faces in videos
+2019-02-11 09:32:42,621 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:40.avi:no faces in videos
+2019-02-11 09:32:42,622 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:44.avi:no faces in videos
+2019-02-11 09:32:42,622 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:26:58.avi
+2019-02-11 09:32:42,623 INFO root 2019-02-11_09:26:58.avi
+2019-02-11 09:32:59,974 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:33:00,173 INFO check_avi_face starting video stream...
+2019-02-11 09:33:00,207 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:32:25.avi
+2019-02-11 09:33:19,478 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:32:25.avi:no faces in videos
+2019-02-11 09:33:32,633 INFO root send email is ok
+2019-02-11 09:33:32,683 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:33:32,685 INFO face_to_email_send finish send email
+2019-02-11 09:34:43,313 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:43.avi
+2019-02-11 09:34:46,995 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:46.avi
+2019-02-11 09:35:08,218 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:35:08,366 INFO check_avi_face starting video stream...
+2019-02-11 09:35:08,368 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:43.avi
+2019-02-11 09:35:21,743 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:46.avi
+2019-02-11 09:35:34,464 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:43.avi:no faces in videos
+2019-02-11 09:35:34,466 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:34:46.avi:no faces in videos
+2019-02-11 09:37:19,110 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:19.avi
+2019-02-11 09:37:22,624 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:22.avi
+2019-02-11 09:37:43,727 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:37:43,924 INFO check_avi_face starting video stream...
+2019-02-11 09:37:43,925 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:19.avi
+2019-02-11 09:37:56,849 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:22.avi
+2019-02-11 09:38:09,791 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:19.avi:no faces in videos
+2019-02-11 09:38:09,793 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:37:22.avi:no faces in videos
+2019-02-11 09:38:44,542 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:38:44.avi
+2019-02-11 09:39:05,565 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:39:05,706 INFO check_avi_face starting video stream...
+2019-02-11 09:39:05,707 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:38:44.avi
+2019-02-11 09:39:21,985 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:38:44.avi:no faces in videos
+2019-02-11 09:40:02,107 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:02.avi
+2019-02-11 09:40:23,183 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:40:23,324 INFO check_avi_face starting video stream...
+2019-02-11 09:40:23,326 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:02.avi
+2019-02-11 09:40:42,837 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:42.avi
+2019-02-11 09:40:45,264 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:02.avi:no faces in videos
+2019-02-11 09:41:03,847 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:41:03,984 INFO check_avi_face starting video stream...
+2019-02-11 09:41:03,986 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:42.avi
+2019-02-11 09:41:11,406 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:41:11.avi
+2019-02-11 09:41:20,672 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:40:42.avi:no faces in videos
+2019-02-11 09:41:32,457 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:41:32,618 INFO check_avi_face starting video stream...
+2019-02-11 09:41:32,620 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:41:11.avi
+2019-02-11 09:41:49,732 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:41:11.avi:no faces in videos
+2019-02-11 09:42:15,004 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:14.avi
+2019-02-11 09:42:36,084 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:42:36,222 INFO check_avi_face starting video stream...
+2019-02-11 09:42:36,224 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:14.avi
+2019-02-11 09:42:38,684 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:38.avi
+2019-02-11 09:42:47,648 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:47.avi
+2019-02-11 09:42:55,377 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:55.avi
+2019-02-11 09:43:16,747 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:43:16,956 INFO check_avi_face starting video stream...
+2019-02-11 09:43:16,959 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:38.avi
+2019-02-11 09:43:17,370 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:14.avi:no faces in videos
+2019-02-11 09:43:29,751 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:29.avi
+2019-02-11 09:43:37,117 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:37.avi
+2019-02-11 09:43:37,849 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:47.avi
+2019-02-11 09:43:50,167 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:50.avi
+2019-02-11 09:43:55,437 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:55.avi
+2019-02-11 09:44:03,324 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:03.avi
+2019-02-11 09:44:11,001 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:10.avi
+2019-02-11 09:44:22,396 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:38.avi:no faces in videos
+2019-02-11 09:44:22,398 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:47.avi:no faces in videos
+2019-02-11 09:44:22,399 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:42:55.avi
+2019-02-11 09:44:22,400 INFO root 2019-02-11_09:42:55.avi
+2019-02-11 09:44:32,675 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:44:32,870 INFO check_avi_face starting video stream...
+2019-02-11 09:44:32,872 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:29.avi
+2019-02-11 09:44:38,948 INFO root send email is ok
+2019-02-11 09:44:38,966 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:44:38,967 INFO face_to_email_send finish send email
+2019-02-11 09:44:46,669 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:37.avi
+2019-02-11 09:45:01,058 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:50.avi
+2019-02-11 09:45:16,279 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:03.avi
+2019-02-11 09:45:29,848 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:10.avi
+2019-02-11 09:45:47,338 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:45:47.avi
+2019-02-11 09:45:57,061 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:29.avi:no faces in videos
+2019-02-11 09:45:57,063 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:37.avi:no faces in videos
+2019-02-11 09:45:57,064 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:43:50.avi:no faces in videos
+2019-02-11 09:45:57,065 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:03.avi:no faces in videos
+2019-02-11 09:45:57,066 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:44:10.avi:no faces in videos
+2019-02-11 09:46:08,305 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:46:08,507 INFO check_avi_face starting video stream...
+2019-02-11 09:46:08,510 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:45:47.avi
+2019-02-11 09:46:25,161 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:45:47.avi:no faces in videos
+2019-02-11 09:49:54,558 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:49:54.avi
+2019-02-11 09:50:15,669 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:50:15,801 INFO check_avi_face starting video stream...
+2019-02-11 09:50:15,803 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:49:54.avi
+2019-02-11 09:50:32,620 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:49:54.avi:no faces in videos
+2019-02-11 09:51:54,312 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:51:54.avi
+2019-02-11 09:52:15,502 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:52:15,658 INFO check_avi_face starting video stream...
+2019-02-11 09:52:15,660 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:51:54.avi
+2019-02-11 09:52:41,554 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:51:54.avi:no faces in videos
+2019-02-11 09:55:33,519 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:55:33.avi
+2019-02-11 09:55:54,645 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:55:54,783 INFO check_avi_face starting video stream...
+2019-02-11 09:55:54,784 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:55:33.avi
+2019-02-11 09:56:01,864 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:01.avi
+2019-02-11 09:56:08,098 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:08.avi
+2019-02-11 09:56:14,007 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:13.avi
+2019-02-11 09:56:20,656 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:55:33.avi:no faces in videos
+2019-02-11 09:56:34,896 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:56:35,031 INFO check_avi_face starting video stream...
+2019-02-11 09:56:35,033 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:01.avi
+2019-02-11 09:56:44,697 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:44.avi
+2019-02-11 09:56:50,941 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:08.avi
+2019-02-11 09:57:05,018 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:13.avi
+2019-02-11 09:57:05,827 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:57:06,034 INFO check_avi_face starting video stream...
+2019-02-11 09:57:06,035 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:44.avi
+2019-02-11 09:57:09,015 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:08.avi
+2019-02-11 09:57:22,426 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:22.avi
+2019-02-11 09:57:32,582 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:32.avi
+2019-02-11 09:57:44,627 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:44.avi
+2019-02-11 09:57:55,207 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:55.avi
+2019-02-11 09:58:12,828 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:01.avi:no faces in videos
+2019-02-11 09:58:12,829 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:08.avi:no faces in videos
+2019-02-11 09:58:12,830 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:13.avi:no faces in videos
+2019-02-11 09:58:16,397 INFO check_avi_face loading encodings + face detector...
+2019-02-11 09:58:16,632 INFO check_avi_face starting video stream...
+2019-02-11 09:58:16,635 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:08.avi
+2019-02-11 09:58:21,278 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:56:44.avi
+2019-02-11 09:58:21,279 INFO root 2019-02-11_09:56:44.avi
+2019-02-11 09:58:50,854 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:22.avi
+2019-02-11 09:58:53,440 INFO root send email is ok
+2019-02-11 09:58:53,472 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 09:58:53,473 INFO face_to_email_send finish send email
+2019-02-11 09:59:05,306 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:32.avi
+2019-02-11 09:59:20,501 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:44.avi
+2019-02-11 09:59:31,593 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:31.avi
+2019-02-11 09:59:35,624 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:55.avi
+2019-02-11 09:59:36,161 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:36.avi
+2019-02-11 09:59:54,683 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:08.avi:no faces in videos
+2019-02-11 09:59:54,684 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:22.avi:no faces in videos
+2019-02-11 09:59:54,685 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:32.avi:no faces in videos
+2019-02-11 09:59:54,686 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:44.avi:no faces in videos
+2019-02-11 09:59:54,687 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:57:55.avi:no faces in videos
+2019-02-11 10:00:09,988 INFO check_avi_face loading encodings + face detector...
+2019-02-11 10:00:10,138 INFO check_avi_face starting video stream...
+2019-02-11 10:00:10,140 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:31.avi
+2019-02-11 10:00:25,072 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:36.avi
+2019-02-11 10:01:57,609 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:31.avi:no faces in videos
+2019-02-11 10:01:57,610 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_09:59:36.avi
+2019-02-11 10:01:57,611 INFO root 2019-02-11_09:59:36.avi
+2019-02-11 10:02:53,038 INFO root send email is ok
+2019-02-11 10:02:53,062 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 10:02:53,066 INFO face_to_email_send finish send email
+2019-02-11 10:31:54,697 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:31:54.avi
+2019-02-11 10:32:15,774 INFO check_avi_face loading encodings + face detector...
+2019-02-11 10:32:15,901 INFO check_avi_face starting video stream...
+2019-02-11 10:32:15,903 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:31:54.avi
+2019-02-11 10:32:18,177 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:32:18.avi
+2019-02-11 10:32:34,976 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:31:54.avi:no faces in videos
+2019-02-11 10:32:39,202 INFO check_avi_face loading encodings + face detector...
+2019-02-11 10:32:39,351 INFO check_avi_face starting video stream...
+2019-02-11 10:32:39,353 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:32:18.avi
+2019-02-11 10:33:01,324 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:32:18.avi
+2019-02-11 10:33:01,325 INFO root 2019-02-11_10:32:18.avi
+2019-02-11 10:33:20,489 INFO root send email is ok
+2019-02-11 10:33:20,517 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 10:33:20,518 INFO face_to_email_send finish send email
+2019-02-11 10:35:02,995 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:35:02.avi
+2019-02-11 10:35:24,081 INFO check_avi_face loading encodings + face detector...
+2019-02-11 10:35:24,213 INFO check_avi_face starting video stream...
+2019-02-11 10:35:24,215 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:35:02.avi
+2019-02-11 10:35:41,851 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:35:02.avi:no faces in videos
+2019-02-11 10:46:53,166 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:46:53.avi
+2019-02-11 10:47:14,289 INFO check_avi_face loading encodings + face detector...
+2019-02-11 10:47:14,425 INFO check_avi_face starting video stream...
+2019-02-11 10:47:14,427 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:46:53.avi
+2019-02-11 10:47:32,596 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_10:46:53.avi
+2019-02-11 10:47:32,602 INFO root 2019-02-11_10:46:53.avi
+2019-02-11 10:47:50,512 INFO root send email is ok
+2019-02-11 10:47:50,541 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 10:47:50,543 INFO face_to_email_send finish send email
+2019-02-11 11:43:48,593 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:43:48.avi
+2019-02-11 11:44:09,633 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:44:09,769 INFO check_avi_face starting video stream...
+2019-02-11 11:44:09,770 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:43:48.avi
+2019-02-11 11:44:27,260 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:43:48.avi:no faces in videos
+2019-02-11 11:48:44,510 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:48:44.avi
+2019-02-11 11:49:05,570 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:49:05,719 INFO check_avi_face starting video stream...
+2019-02-11 11:49:05,723 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:48:44.avi
+2019-02-11 11:49:23,523 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:48:44.avi:no faces in videos
+2019-02-11 11:52:16,994 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:16.avi
+2019-02-11 11:52:36,349 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:36.avi
+2019-02-11 11:52:46,771 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:46.avi
+2019-02-11 11:53:04,209 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:04.avi
+2019-02-11 11:53:25,373 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:53:25,562 INFO check_avi_face starting video stream...
+2019-02-11 11:53:25,563 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:16.avi
+2019-02-11 11:53:37,267 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:37.avi
+2019-02-11 11:53:57,761 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:57.avi
+2019-02-11 11:54:26,574 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:54:26,760 INFO check_avi_face starting video stream...
+2019-02-11 11:54:26,763 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:37.avi
+2019-02-11 11:54:33,789 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:33.avi
+2019-02-11 11:54:48,659 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:36.avi
+2019-02-11 11:54:51,549 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:51.avi
+2019-02-11 11:55:12,870 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:55:13,199 INFO check_avi_face starting video stream...
+2019-02-11 11:55:13,201 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:33.avi
+2019-02-11 11:55:17,289 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:57.avi
+2019-02-11 11:55:30,743 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:30.avi
+2019-02-11 11:55:47,783 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:47.avi
+2019-02-11 11:55:56,402 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:46.avi
+2019-02-11 11:56:03,697 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:03.avi
+2019-02-11 11:56:08,701 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:51.avi
+2019-02-11 11:56:24,753 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:56:25,082 INFO check_avi_face starting video stream...
+2019-02-11 11:56:25,084 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:30.avi
+2019-02-11 11:56:36,027 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:35.avi
+2019-02-11 11:56:57,237 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:56:57,569 INFO check_avi_face starting video stream...
+2019-02-11 11:56:57,571 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:35.avi
+2019-02-11 11:57:22,875 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:47.avi
+2019-02-11 11:57:44,255 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:35.avi:no faces in videos
+2019-02-11 11:57:54,791 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:57:54.avi
+2019-02-11 11:57:58,384 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:04.avi
+2019-02-11 11:58:07,977 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:33.avi
+2019-02-11 11:58:07,979 INFO root 2019-02-11_11:54:33.avi
+2019-02-11 11:58:16,205 INFO check_avi_face loading encodings + face detector...
+2019-02-11 11:58:16,429 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:54:51.avi
+2019-02-11 11:58:16,431 INFO root 2019-02-11_11:54:51.avi
+2019-02-11 11:58:23,218 INFO check_avi_face starting video stream...
+2019-02-11 11:58:26,557 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:57:54.avi
+2019-02-11 11:58:48,661 INFO root send email is ok
+2019-02-11 11:58:48,715 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 11:58:48,718 INFO face_to_email_send finish send email
+2019-02-11 11:58:52,150 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:03.avi
+2019-02-11 11:59:08,149 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:37.avi
+2019-02-11 11:59:08,178 INFO root 2019-02-11_11:53:37.avi
+2019-02-11 11:59:17,568 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:57.avi
+2019-02-11 11:59:17,586 INFO root 2019-02-11_11:53:57.avi
+2019-02-11 11:59:40,712 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:16.avi
+2019-02-11 11:59:41,372 INFO root 2019-02-11_11:52:16.avi
+2019-02-11 12:00:08,917 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:36.avi
+2019-02-11 12:00:08,918 INFO root 2019-02-11_11:52:36.avi
+2019-02-11 12:00:20,802 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:52:46.avi
+2019-02-11 12:00:20,807 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:57:54.avi:no faces in videos
+2019-02-11 12:00:20,809 INFO root 2019-02-11_11:52:46.avi
+2019-02-11 12:00:31,707 INFO root send email is ok
+2019-02-11 12:00:31,774 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:00:31,776 INFO face_to_email_send finish send email
+2019-02-11 12:00:32,322 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:00:32.avi
+2019-02-11 12:00:33,229 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:53:04.avi:no faces in videos
+2019-02-11 12:00:53,139 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:00:53,345 INFO check_avi_face starting video stream...
+2019-02-11 12:00:53,347 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:00:32.avi
+2019-02-11 12:01:11,050 INFO root send email is ok
+2019-02-11 12:01:11,072 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:01:11,074 INFO face_to_email_send finish send email
+2019-02-11 12:01:13,364 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:00:32.avi:no faces in videos
+2019-02-11 12:01:14,222 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:30.avi
+2019-02-11 12:01:14,223 INFO root 2019-02-11_11:55:30.avi
+2019-02-11 12:01:18,875 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:55:47.avi
+2019-02-11 12:01:18,877 INFO root 2019-02-11_11:55:47.avi
+2019-02-11 12:01:23,549 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_11:56:03.avi
+2019-02-11 12:01:23,550 INFO root 2019-02-11_11:56:03.avi
+2019-02-11 12:01:34,330 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:01:34.avi
+2019-02-11 12:01:55,230 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:01:55,446 INFO check_avi_face starting video stream...
+2019-02-11 12:01:55,448 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:01:34.avi
+2019-02-11 12:02:01,083 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:01.avi
+2019-02-11 12:02:01,214 INFO root send email is ok
+2019-02-11 12:02:01,238 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:02:01,239 INFO face_to_email_send finish send email
+2019-02-11 12:02:09,547 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:01:34.avi:no faces in videos
+2019-02-11 12:02:22,085 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:02:22,242 INFO check_avi_face starting video stream...
+2019-02-11 12:02:22,244 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:01.avi
+2019-02-11 12:02:23,905 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:23.avi
+2019-02-11 12:02:51,577 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:02:51,887 INFO check_avi_face starting video stream...
+2019-02-11 12:02:51,889 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:23.avi
+2019-02-11 12:03:05,026 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:01.avi
+2019-02-11 12:03:05,028 INFO root 2019-02-11_12:02:01.avi
+2019-02-11 12:03:28,657 INFO root send email is ok
+2019-02-11 12:03:28,671 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:03:28,676 INFO face_to_email_send finish send email
+2019-02-11 12:03:35,008 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:03:34.avi
+2019-02-11 12:03:59,962 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:02:23.avi
+2019-02-11 12:03:59,964 INFO root 2019-02-11_12:02:23.avi
+2019-02-11 12:04:30,671 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:04:33,348 INFO check_avi_face starting video stream...
+2019-02-11 12:04:33,408 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:03:34.avi
+2019-02-11 12:04:42,328 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:04:42.avi
+2019-02-11 12:04:52,071 INFO root send email is ok
+2019-02-11 12:04:52,112 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:04:52,114 INFO face_to_email_send finish send email
+2019-02-11 12:05:20,478 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:05:20,625 INFO check_avi_face starting video stream...
+2019-02-11 12:05:20,627 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:04:42.avi
+2019-02-11 12:05:40,745 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:03:34.avi:no faces in videos
+2019-02-11 12:06:42,957 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:04:42.avi
+2019-02-11 12:06:42,958 INFO root 2019-02-11_12:04:42.avi
+2019-02-11 12:07:29,734 INFO root send email is ok
+2019-02-11 12:07:29,750 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:07:29,757 INFO face_to_email_send finish send email
+2019-02-11 12:27:11,565 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:11.avi
+2019-02-11 12:27:21,526 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:21.avi
+2019-02-11 12:27:23,981 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:23.avi
+2019-02-11 12:27:45,027 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:27:45,193 INFO check_avi_face starting video stream...
+2019-02-11 12:27:45,195 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:11.avi
+2019-02-11 12:27:58,885 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:58.avi
+2019-02-11 12:28:19,966 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:28:20,267 INFO check_avi_face starting video stream...
+2019-02-11 12:28:20,270 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:58.avi
+2019-02-11 12:28:23,456 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:21.avi
+2019-02-11 12:28:43,644 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:58.avi:no faces in videos
+2019-02-11 12:28:49,361 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:23.avi
+2019-02-11 12:29:09,460 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:11.avi
+2019-02-11 12:29:09,461 INFO root 2019-02-11_12:27:11.avi
+2019-02-11 12:29:21,150 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:21.avi:no faces in videos
+2019-02-11 12:29:21,151 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:27:23.avi:no faces in videos
+2019-02-11 12:29:34,125 INFO root send email is ok
+2019-02-11 12:29:34,147 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:29:34,148 INFO face_to_email_send finish send email
+2019-02-11 12:29:52,157 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:29:52.avi
+2019-02-11 12:30:13,311 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:30:13,453 INFO check_avi_face starting video stream...
+2019-02-11 12:30:13,455 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:29:52.avi
+2019-02-11 12:30:58,932 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:29:52.avi
+2019-02-11 12:30:58,933 INFO root 2019-02-11_12:29:52.avi
+2019-02-11 12:31:27,351 INFO root send email is ok
+2019-02-11 12:31:27,414 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:31:27,415 INFO face_to_email_send finish send email
+2019-02-11 12:35:30,402 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:35:30.avi
+2019-02-11 12:35:51,462 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:35:51,655 INFO check_avi_face starting video stream...
+2019-02-11 12:35:51,656 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:35:30.avi
+2019-02-11 12:36:12,531 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:35:30.avi
+2019-02-11 12:36:12,532 INFO root 2019-02-11_12:35:30.avi
+2019-02-11 12:36:24,364 INFO root send email is ok
+2019-02-11 12:36:24,396 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:36:24,397 INFO face_to_email_send finish send email
+2019-02-11 12:36:42,777 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:36:42.avi
+2019-02-11 12:37:03,869 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:37:04,021 INFO check_avi_face starting video stream...
+2019-02-11 12:37:04,023 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:36:42.avi
+2019-02-11 12:37:36,446 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:36.avi
+2019-02-11 12:37:43,360 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:43.avi
+2019-02-11 12:38:04,485 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:38:04,760 INFO check_avi_face starting video stream...
+2019-02-11 12:38:04,762 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:36.avi
+2019-02-11 12:38:05,170 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:05.avi
+2019-02-11 12:38:12,906 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:12.avi
+2019-02-11 12:38:21,418 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:36:42.avi
+2019-02-11 12:38:21,431 INFO root 2019-02-11_12:36:42.avi
+2019-02-11 12:38:40,382 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:38:40,677 INFO check_avi_face starting video stream...
+2019-02-11 12:38:40,711 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:05.avi
+2019-02-11 12:38:54,615 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:43.avi
+2019-02-11 12:39:00,281 INFO root send email is ok
+2019-02-11 12:39:00,329 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:39:00,330 INFO face_to_email_send finish send email
+2019-02-11 12:39:15,421 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:36.avi:no faces in videos
+2019-02-11 12:39:15,423 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:37:43.avi:no faces in videos
+2019-02-11 12:39:17,859 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:12.avi
+2019-02-11 12:39:46,479 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:05.avi:no faces in videos
+2019-02-11 12:39:46,480 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:38:12.avi:no faces in videos
+2019-02-11 12:40:39,204 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:40:39.avi
+2019-02-11 12:41:00,344 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:41:00,510 INFO check_avi_face starting video stream...
+2019-02-11 12:41:00,512 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:40:39.avi
+2019-02-11 12:41:24,413 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:40:39.avi
+2019-02-11 12:41:24,414 INFO root 2019-02-11_12:40:39.avi
+2019-02-11 12:41:34,850 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:34.avi
+2019-02-11 12:41:43,294 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:43.avi
+2019-02-11 12:41:45,804 INFO root send email is ok
+2019-02-11 12:41:45,822 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:41:45,823 INFO face_to_email_send finish send email
+2019-02-11 12:42:04,321 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:42:04,472 INFO check_avi_face starting video stream...
+2019-02-11 12:42:04,473 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:34.avi
+2019-02-11 12:42:27,201 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:42:27.avi
+2019-02-11 12:42:32,163 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:43.avi
+2019-02-11 12:42:46,845 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:34.avi
+2019-02-11 12:42:46,846 INFO root 2019-02-11_12:41:34.avi
+2019-02-11 12:42:54,242 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:42:54,378 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:41:43.avi:no faces in videos
+2019-02-11 12:42:54,421 INFO check_avi_face starting video stream...
+2019-02-11 12:42:54,424 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:42:27.avi
+2019-02-11 12:43:09,842 INFO root send email is ok
+2019-02-11 12:43:09,878 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:43:09,879 INFO face_to_email_send finish send email
+2019-02-11 12:43:15,069 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:42:27.avi
+2019-02-11 12:43:15,075 INFO root 2019-02-11_12:42:27.avi
+2019-02-11 12:43:31,406 INFO root send email is ok
+2019-02-11 12:43:31,536 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:43:31,537 INFO face_to_email_send finish send email
+2019-02-11 12:45:49,638 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:45:49.avi
+2019-02-11 12:46:01,375 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:46:01.avi
+2019-02-11 12:46:22,548 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:46:22,683 INFO check_avi_face starting video stream...
+2019-02-11 12:46:22,684 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:45:49.avi
+2019-02-11 12:46:40,918 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:46:01.avi
+2019-02-11 12:47:01,321 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:45:49.avi
+2019-02-11 12:47:01,323 INFO root 2019-02-11_12:45:49.avi
+2019-02-11 12:47:06,910 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:46:01.avi
+2019-02-11 12:47:06,915 INFO root 2019-02-11_12:46:01.avi
+2019-02-11 12:47:26,358 INFO root send email is ok
+2019-02-11 12:47:26,390 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:47:26,391 INFO face_to_email_send finish send email
+2019-02-11 12:50:23,189 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:50:23.avi
+2019-02-11 12:50:44,153 INFO check_avi_face loading encodings + face detector...
+2019-02-11 12:50:44,298 INFO check_avi_face starting video stream...
+2019-02-11 12:50:44,300 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:50:23.avi
+2019-02-11 12:51:13,980 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_12:50:23.avi
+2019-02-11 12:51:13,984 INFO root 2019-02-11_12:50:23.avi
+2019-02-11 12:51:36,962 INFO root send email is ok
+2019-02-11 12:51:36,981 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 12:51:36,981 INFO face_to_email_send finish send email
+2019-02-11 13:00:02,054 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:00:02.avi
+2019-02-11 13:00:23,058 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:00:23,243 INFO check_avi_face starting video stream...
+2019-02-11 13:00:23,245 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:00:02.avi
+2019-02-11 13:00:49,277 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:00:02.avi
+2019-02-11 13:00:49,278 INFO root 2019-02-11_13:00:02.avi
+2019-02-11 13:01:11,012 INFO root send email is ok
+2019-02-11 13:01:11,040 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:01:11,040 INFO face_to_email_send finish send email
+2019-02-11 13:02:31,548 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:02:31.avi
+2019-02-11 13:02:52,617 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:02:52,771 INFO check_avi_face starting video stream...
+2019-02-11 13:02:52,774 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:02:31.avi
+2019-02-11 13:03:15,583 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:02:31.avi:no faces in videos
+2019-02-11 13:08:31,166 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:31.avi
+2019-02-11 13:08:40,716 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:40.avi
+2019-02-11 13:09:01,894 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:09:02,085 INFO check_avi_face starting video stream...
+2019-02-11 13:09:02,088 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:31.avi
+2019-02-11 13:09:25,504 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:40.avi
+2019-02-11 13:09:30,277 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:09:30.avi
+2019-02-11 13:09:41,158 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:31.avi:no faces in videos
+2019-02-11 13:09:41,159 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:08:40.avi:no faces in videos
+2019-02-11 13:09:51,152 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:09:51,370 INFO check_avi_face starting video stream...
+2019-02-11 13:09:51,372 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:09:30.avi
+2019-02-11 13:10:09,201 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:09:30.avi
+2019-02-11 13:10:09,202 INFO root 2019-02-11_13:09:30.avi
+2019-02-11 13:10:20,655 INFO root send email is ok
+2019-02-11 13:10:20,672 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:10:20,674 INFO face_to_email_send finish send email
+2019-02-11 13:11:59,984 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:11:59.avi
+2019-02-11 13:12:21,056 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:12:21,216 INFO check_avi_face starting video stream...
+2019-02-11 13:12:21,219 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:11:59.avi
+2019-02-11 13:12:35,396 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:11:59.avi:no faces in videos
+2019-02-11 13:16:11,614 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:16:11.avi
+2019-02-11 13:16:32,673 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:16:32,825 INFO check_avi_face starting video stream...
+2019-02-11 13:16:32,826 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:16:11.avi
+2019-02-11 13:16:47,095 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:16:11.avi:no faces in videos
+2019-02-11 13:19:46,846 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:19:46.avi
+2019-02-11 13:20:00,384 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:00.avi
+2019-02-11 13:20:08,655 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:08.avi
+2019-02-11 13:20:29,749 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:20:29,899 INFO check_avi_face starting video stream...
+2019-02-11 13:20:29,900 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:19:46.avi
+2019-02-11 13:20:37,169 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:37.avi
+2019-02-11 13:20:58,334 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:20:58,573 INFO check_avi_face starting video stream...
+2019-02-11 13:20:58,588 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:37.avi
+2019-02-11 13:21:00,279 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:00.avi
+2019-02-11 13:21:14,297 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:21:14.avi
+2019-02-11 13:21:20,759 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:08.avi
+2019-02-11 13:21:35,467 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:21:35,674 INFO check_avi_face starting video stream...
+2019-02-11 13:21:35,676 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:21:14.avi
+2019-02-11 13:21:40,653 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:37.avi
+2019-02-11 13:21:40,658 INFO root 2019-02-11_13:20:37.avi
+2019-02-11 13:21:55,219 INFO root send email is ok
+2019-02-11 13:21:55,283 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:21:55,285 INFO face_to_email_send finish send email
+2019-02-11 13:22:03,679 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:03.avi
+2019-02-11 13:22:06,308 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:19:46.avi:no faces in videos
+2019-02-11 13:22:06,310 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:00.avi:no faces in videos
+2019-02-11 13:22:06,311 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:20:08.avi:no faces in videos
+2019-02-11 13:22:08,255 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:21:14.avi:no faces in videos
+2019-02-11 13:22:24,684 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:22:24,847 INFO check_avi_face starting video stream...
+2019-02-11 13:22:24,849 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:03.avi
+2019-02-11 13:22:36,168 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:36.avi
+2019-02-11 13:22:40,244 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:03.avi:no faces in videos
+2019-02-11 13:22:57,053 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:22:57,252 INFO check_avi_face starting video stream...
+2019-02-11 13:22:57,253 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:36.avi
+2019-02-11 13:23:02,451 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:23:02.avi
+2019-02-11 13:23:13,800 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:22:36.avi:no faces in videos
+2019-02-11 13:23:23,464 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:23:23,613 INFO check_avi_face starting video stream...
+2019-02-11 13:23:23,614 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:23:02.avi
+2019-02-11 13:23:39,960 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:23:02.avi:no faces in videos
+2019-02-11 13:24:09,578 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:24:09.avi
+2019-02-11 13:24:30,727 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:24:30,887 INFO check_avi_face starting video stream...
+2019-02-11 13:24:30,888 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:24:09.avi
+2019-02-11 13:24:53,832 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:24:09.avi:no faces in videos
+2019-02-11 13:28:48,602 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:28:48.avi
+2019-02-11 13:29:09,755 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:29:09,902 INFO check_avi_face starting video stream...
+2019-02-11 13:29:09,905 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:28:48.avi
+2019-02-11 13:29:28,658 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:28:48.avi:no faces in videos
+2019-02-11 13:33:55,201 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:33:55.avi
+2019-02-11 13:34:04,646 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:34:04.avi
+2019-02-11 13:34:25,775 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:34:25,911 INFO check_avi_face starting video stream...
+2019-02-11 13:34:25,913 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:33:55.avi
+2019-02-11 13:34:48,950 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:34:04.avi
+2019-02-11 13:35:12,960 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:33:55.avi:no faces in videos
+2019-02-11 13:35:12,962 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:34:04.avi:no faces in videos
+2019-02-11 13:36:54,164 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:36:54.avi
+2019-02-11 13:37:15,334 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:37:15,490 INFO check_avi_face starting video stream...
+2019-02-11 13:37:15,493 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:36:54.avi
+2019-02-11 13:37:38,952 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:36:54.avi
+2019-02-11 13:37:38,955 INFO root 2019-02-11_13:36:54.avi
+2019-02-11 13:37:54,346 INFO root send email is ok
+2019-02-11 13:37:54,362 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:37:54,363 INFO face_to_email_send finish send email
+2019-02-11 13:39:02,612 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:39:02.avi
+2019-02-11 13:39:23,703 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:39:23,851 INFO check_avi_face starting video stream...
+2019-02-11 13:39:23,853 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:39:02.avi
+2019-02-11 13:39:46,913 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:39:02.avi:no faces in videos
+2019-02-11 13:42:11,418 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:11.avi
+2019-02-11 13:42:32,472 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:42:32,616 INFO check_avi_face starting video stream...
+2019-02-11 13:42:32,618 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:11.avi
+2019-02-11 13:42:58,886 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:58.avi
+2019-02-11 13:43:08,702 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:11.avi
+2019-02-11 13:43:08,703 INFO root 2019-02-11_13:42:11.avi
+2019-02-11 13:43:19,127 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:43:19.avi
+2019-02-11 13:43:35,279 INFO root send email is ok
+2019-02-11 13:43:35,341 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:43:35,343 INFO face_to_email_send finish send email
+2019-02-11 13:43:40,004 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:43:40,167 INFO check_avi_face starting video stream...
+2019-02-11 13:43:40,169 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:58.avi
+2019-02-11 13:44:01,437 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:43:19.avi
+2019-02-11 13:44:08,877 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:08.avi
+2019-02-11 13:44:16,662 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:42:58.avi:no faces in videos
+2019-02-11 13:44:16,663 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:43:19.avi:no faces in videos
+2019-02-11 13:44:29,847 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:44:30,005 INFO check_avi_face starting video stream...
+2019-02-11 13:44:30,008 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:08.avi
+2019-02-11 13:44:31,683 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:31.avi
+2019-02-11 13:44:44,304 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:08.avi:no faces in videos
+2019-02-11 13:44:45,925 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:45.avi
+2019-02-11 13:45:07,027 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:45:07,183 INFO check_avi_face starting video stream...
+2019-02-11 13:45:07,185 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:31.avi
+2019-02-11 13:45:09,377 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:09.avi
+2019-02-11 13:45:21,923 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:45.avi
+2019-02-11 13:45:30,727 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:45:30,994 INFO check_avi_face starting video stream...
+2019-02-11 13:45:30,996 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:09.avi
+2019-02-11 13:45:33,339 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:33.avi
+2019-02-11 13:45:42,999 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:31.avi:no faces in videos
+2019-02-11 13:45:43,000 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:44:45.avi:no faces in videos
+2019-02-11 13:45:48,969 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:48.avi
+2019-02-11 13:46:10,076 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:46:10,313 INFO check_avi_face starting video stream...
+2019-02-11 13:46:10,315 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:33.avi
+2019-02-11 13:46:15,927 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:09.avi
+2019-02-11 13:46:15,928 INFO root 2019-02-11_13:45:09.avi
+2019-02-11 13:46:38,143 INFO root send email is ok
+2019-02-11 13:46:38,172 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:46:38,173 INFO face_to_email_send finish send email
+2019-02-11 13:46:45,165 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:48.avi
+2019-02-11 13:46:59,062 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:33.avi
+2019-02-11 13:46:59,063 INFO root 2019-02-11_13:45:33.avi
+2019-02-11 13:47:05,196 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:45:48.avi:no faces in videos
+2019-02-11 13:47:11,549 INFO root send email is ok
+2019-02-11 13:47:11,579 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:47:11,581 INFO face_to_email_send finish send email
+2019-02-11 13:49:17,168 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:49:17.avi
+2019-02-11 13:49:42,306 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:49:42,456 INFO check_avi_face starting video stream...
+2019-02-11 13:49:42,458 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:49:17.avi
+2019-02-11 13:51:13,439 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:13.avi
+2019-02-11 13:51:28,925 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:28.avi
+2019-02-11 13:51:50,649 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:51:51,311 INFO check_avi_face starting video stream...
+2019-02-11 13:51:51,330 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:13.avi
+2019-02-11 13:51:55,707 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:55.avi
+2019-02-11 13:52:15,598 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:28.avi
+2019-02-11 13:52:18,970 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:52:19,613 INFO check_avi_face starting video stream...
+2019-02-11 13:52:20,250 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:55.avi
+2019-02-11 13:52:24,198 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:52:24.avi
+2019-02-11 13:52:54,527 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:52:55,317 INFO check_avi_face starting video stream...
+2019-02-11 13:52:55,343 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:52:24.avi
+2019-02-11 13:52:56,544 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:49:17.avi
+2019-02-11 13:52:56,545 INFO root 2019-02-11_13:49:17.avi
+2019-02-11 13:54:31,263 INFO root send email is ok
+2019-02-11 13:54:32,551 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:54:32,553 INFO face_to_email_send finish send email
+2019-02-11 13:54:32,957 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:54:32.avi
+2019-02-11 13:54:33,259 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:13.avi
+2019-02-11 13:54:33,260 INFO root 2019-02-11_13:51:13.avi
+2019-02-11 13:54:38,882 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:55.avi
+2019-02-11 13:54:38,932 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:51:28.avi
+2019-02-11 13:54:38,934 INFO root 2019-02-11_13:51:28.avi
+2019-02-11 13:54:38,947 INFO root 2019-02-11_13:51:55.avi
+2019-02-11 13:54:59,252 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:54:59,562 INFO check_avi_face starting video stream...
+2019-02-11 13:54:59,632 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:54:32.avi
+2019-02-11 13:55:12,566 INFO root send email is ok
+2019-02-11 13:55:12,606 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:55:12,618 INFO face_to_email_send finish send email
+2019-02-11 13:55:29,053 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:52:24.avi
+2019-02-11 13:55:29,067 INFO root 2019-02-11_13:52:24.avi
+2019-02-11 13:55:40,904 INFO root send email is ok
+2019-02-11 13:55:41,570 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:55:41,572 INFO face_to_email_send finish send email
+2019-02-11 13:55:42,007 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:41.avi
+2019-02-11 13:55:42,760 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:54:32.avi
+2019-02-11 13:55:42,766 INFO root 2019-02-11_13:54:32.avi
+2019-02-11 13:55:57,080 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:57.avi
+2019-02-11 13:56:00,270 INFO root send email is ok
+2019-02-11 13:56:00,289 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:56:00,290 INFO face_to_email_send finish send email
+2019-02-11 13:56:12,068 INFO root send email is ok
+2019-02-11 13:56:12,082 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:56:12,085 INFO face_to_email_send finish send email
+2019-02-11 13:56:18,196 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:56:18,395 INFO check_avi_face starting video stream...
+2019-02-11 13:56:18,397 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:41.avi
+2019-02-11 13:56:41,936 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:57.avi
+2019-02-11 13:56:43,792 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:56:43.avi
+2019-02-11 13:57:05,419 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:41.avi
+2019-02-11 13:57:05,420 INFO root 2019-02-11_13:55:41.avi
+2019-02-11 13:57:10,098 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:57:10,281 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:55:57.avi
+2019-02-11 13:57:10,284 INFO root 2019-02-11_13:55:57.avi
+2019-02-11 13:57:14,692 INFO check_avi_face starting video stream...
+2019-02-11 13:57:14,725 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:56:43.avi
+2019-02-11 13:57:15,271 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:57:15.avi
+2019-02-11 13:57:27,489 INFO root send email is ok
+2019-02-11 13:57:27,508 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 13:57:27,509 INFO face_to_email_send finish send email
+2019-02-11 13:57:36,227 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:57:36,512 INFO check_avi_face starting video stream...
+2019-02-11 13:57:36,514 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:57:15.avi
+2019-02-11 13:57:37,444 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:56:43.avi:no faces in videos
+2019-02-11 13:57:50,854 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:57:15.avi:no faces in videos
+2019-02-11 13:58:06,395 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:06.avi
+2019-02-11 13:58:24,128 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:24.avi
+2019-02-11 13:58:45,250 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:58:45,409 INFO check_avi_face starting video stream...
+2019-02-11 13:58:45,410 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:06.avi
+2019-02-11 13:58:59,332 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:24.avi
+2019-02-11 13:59:08,370 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:08.avi
+2019-02-11 13:59:13,377 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:06.avi:no faces in videos
+2019-02-11 13:59:13,383 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:58:24.avi:no faces in videos
+2019-02-11 13:59:29,310 INFO check_avi_face loading encodings + face detector...
+2019-02-11 13:59:29,519 INFO check_avi_face starting video stream...
+2019-02-11 13:59:29,522 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:08.avi
+2019-02-11 13:59:43,958 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:08.avi:no faces in videos
+2019-02-11 13:59:49,624 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:49.avi
+2019-02-11 14:00:02,296 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:02.avi
+2019-02-11 14:00:10,089 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:10.avi
+2019-02-11 14:00:16,165 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:16.avi
+2019-02-11 14:00:37,244 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:00:37,394 INFO check_avi_face starting video stream...
+2019-02-11 14:00:37,396 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:49.avi
+2019-02-11 14:00:51,368 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:02.avi
+2019-02-11 14:01:05,224 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:10.avi
+2019-02-11 14:01:19,033 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:16.avi
+2019-02-11 14:01:32,932 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_13:59:49.avi:no faces in videos
+2019-02-11 14:01:32,933 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:02.avi:no faces in videos
+2019-02-11 14:01:32,934 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:10.avi:no faces in videos
+2019-02-11 14:01:32,935 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:00:16.avi:no faces in videos
+2019-02-11 14:01:33,983 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:33.avi
+2019-02-11 14:01:41,192 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:41.avi
+2019-02-11 14:01:44,798 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:44.avi
+2019-02-11 14:01:48,427 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:48.avi
+2019-02-11 14:02:02,516 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:02:02.avi
+2019-02-11 14:02:23,671 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:02:23,835 INFO check_avi_face starting video stream...
+2019-02-11 14:02:23,836 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:33.avi
+2019-02-11 14:02:46,152 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:41.avi
+2019-02-11 14:03:00,251 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:44.avi
+2019-02-11 14:03:14,892 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:48.avi
+2019-02-11 14:03:34,557 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:02:02.avi
+2019-02-11 14:03:53,127 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:33.avi:no faces in videos
+2019-02-11 14:03:53,129 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:41.avi:no faces in videos
+2019-02-11 14:03:53,130 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:44.avi:no faces in videos
+2019-02-11 14:03:53,131 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:01:48.avi:no faces in videos
+2019-02-11 14:03:53,132 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:02:02.avi:no faces in videos
+2019-02-11 14:04:08,409 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:08.avi
+2019-02-11 14:04:29,563 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:04:29,719 INFO check_avi_face starting video stream...
+2019-02-11 14:04:29,721 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:08.avi
+2019-02-11 14:04:49,887 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:49.avi
+2019-02-11 14:04:58,501 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:08.avi
+2019-02-11 14:04:58,502 INFO root 2019-02-11_14:04:08.avi
+2019-02-11 14:05:08,948 INFO root send email is ok
+2019-02-11 14:05:08,965 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:05:08,968 INFO face_to_email_send finish send email
+2019-02-11 14:05:10,874 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:05:11,031 INFO check_avi_face starting video stream...
+2019-02-11 14:05:11,033 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:49.avi
+2019-02-11 14:05:30,777 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:04:49.avi
+2019-02-11 14:05:30,778 INFO root 2019-02-11_14:04:49.avi
+2019-02-11 14:05:47,537 INFO root send email is ok
+2019-02-11 14:05:47,553 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:05:47,556 INFO face_to_email_send finish send email
+2019-02-11 14:06:25,045 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:06:25.avi
+2019-02-11 14:06:46,145 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:06:46,307 INFO check_avi_face starting video stream...
+2019-02-11 14:06:46,309 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:06:25.avi
+2019-02-11 14:07:15,487 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:06:25.avi
+2019-02-11 14:07:15,488 INFO root 2019-02-11_14:06:25.avi
+2019-02-11 14:07:27,839 INFO root send email is ok
+2019-02-11 14:07:27,856 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:07:27,857 INFO face_to_email_send finish send email
+2019-02-11 14:08:36,982 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:08:36.avi
+2019-02-11 14:08:58,013 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:08:58,155 INFO check_avi_face starting video stream...
+2019-02-11 14:08:58,157 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:08:36.avi
+2019-02-11 14:09:45,090 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:08:36.avi
+2019-02-11 14:09:45,091 INFO root 2019-02-11_14:08:36.avi
+2019-02-11 14:09:59,657 INFO root send email is ok
+2019-02-11 14:09:59,712 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:09:59,712 INFO face_to_email_send finish send email
+2019-02-11 14:10:47,535 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:10:47.avi
+2019-02-11 14:11:08,658 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:11:08,797 INFO check_avi_face starting video stream...
+2019-02-11 14:11:08,804 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:10:47.avi
+2019-02-11 14:11:20,124 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:20.avi
+2019-02-11 14:11:34,677 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:34.avi
+2019-02-11 14:11:55,637 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:11:55,934 INFO check_avi_face starting video stream...
+2019-02-11 14:11:55,937 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:20.avi
+2019-02-11 14:12:37,173 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:37.avi
+2019-02-11 14:12:52,547 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:52.avi
+2019-02-11 14:13:08,798 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:34.avi
+2019-02-11 14:13:13,997 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:13:14,370 INFO check_avi_face starting video stream...
+2019-02-11 14:13:14,372 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:37.avi
+2019-02-11 14:13:34,397 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:13:34.avi
+2019-02-11 14:13:49,007 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:10:47.avi
+2019-02-11 14:13:49,008 INFO root 2019-02-11_14:10:47.avi
+2019-02-11 14:14:07,591 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:14:07.avi
+2019-02-11 14:14:17,445 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:52.avi
+2019-02-11 14:14:28,503 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:14:28,775 INFO check_avi_face starting video stream...
+2019-02-11 14:14:28,787 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:13:34.avi
+2019-02-11 14:14:31,143 INFO root send email is ok
+2019-02-11 14:14:31,170 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:14:31,171 INFO face_to_email_send finish send email
+2019-02-11 14:14:33,565 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:20.avi
+2019-02-11 14:14:33,572 INFO root 2019-02-11_14:11:20.avi
+2019-02-11 14:14:41,106 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:11:34.avi
+2019-02-11 14:14:41,109 INFO root 2019-02-11_14:11:34.avi
+2019-02-11 14:14:58,971 INFO root send email is ok
+2019-02-11 14:14:59,004 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:14:59,005 INFO face_to_email_send finish send email
+2019-02-11 14:15:05,647 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:14:07.avi
+2019-02-11 14:15:07,333 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:37.avi
+2019-02-11 14:15:07,334 INFO root 2019-02-11_14:12:37.avi
+2019-02-11 14:15:12,494 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:12:52.avi:no faces in videos
+2019-02-11 14:15:18,723 INFO root send email is ok
+2019-02-11 14:15:18,756 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:15:18,757 INFO face_to_email_send finish send email
+2019-02-11 14:15:26,332 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:13:34.avi:no faces in videos
+2019-02-11 14:15:26,333 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:14:07.avi
+2019-02-11 14:15:26,334 INFO root 2019-02-11_14:14:07.avi
+2019-02-11 14:15:36,496 INFO root send email is ok
+2019-02-11 14:15:36,527 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:15:36,528 INFO face_to_email_send finish send email
+2019-02-11 14:16:07,050 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:07.avi
+2019-02-11 14:16:10,565 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:10.avi
+2019-02-11 14:16:31,694 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:16:31,856 INFO check_avi_face starting video stream...
+2019-02-11 14:16:31,858 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:07.avi
+2019-02-11 14:16:53,670 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:53.avi
+2019-02-11 14:17:05,519 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:10.avi
+2019-02-11 14:17:15,350 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:17:15,647 INFO check_avi_face starting video stream...
+2019-02-11 14:17:15,649 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:53.avi
+2019-02-11 14:17:35,931 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:17:35.avi
+2019-02-11 14:17:52,465 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:07.avi
+2019-02-11 14:17:52,466 INFO root 2019-02-11_14:16:07.avi
+2019-02-11 14:17:57,090 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:17:57,220 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:10.avi
+2019-02-11 14:17:57,222 INFO root 2019-02-11_14:16:10.avi
+2019-02-11 14:18:00,112 INFO check_avi_face starting video stream...
+2019-02-11 14:18:01,610 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:17:35.avi
+2019-02-11 14:18:02,566 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:02.avi
+2019-02-11 14:18:05,875 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:16:53.avi
+2019-02-11 14:18:05,877 INFO root 2019-02-11_14:16:53.avi
+2019-02-11 14:18:15,912 INFO root send email is ok
+2019-02-11 14:18:15,996 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:18:16,008 INFO face_to_email_send finish send email
+2019-02-11 14:18:23,400 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:18:23,672 INFO check_avi_face starting video stream...
+2019-02-11 14:18:23,674 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:02.avi
+2019-02-11 14:18:27,758 INFO root send email is ok
+2019-02-11 14:18:27,776 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:18:27,777 INFO face_to_email_send finish send email
+2019-02-11 14:18:39,009 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:17:35.avi:no faces in videos
+2019-02-11 14:18:43,821 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:43.avi
+2019-02-11 14:18:46,139 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:02.avi:no faces in videos
+2019-02-11 14:19:04,877 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:19:05,039 INFO check_avi_face starting video stream...
+2019-02-11 14:19:05,041 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:43.avi
+2019-02-11 14:19:19,177 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:18:43.avi:no faces in videos
+2019-02-11 14:19:37,533 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:19:37.avi
+2019-02-11 14:19:58,653 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:19:58,804 INFO check_avi_face starting video stream...
+2019-02-11 14:19:58,806 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:19:37.avi
+2019-02-11 14:20:07,285 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:20:07.avi
+2019-02-11 14:20:17,348 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:19:37.avi
+2019-02-11 14:20:17,349 INFO root 2019-02-11_14:19:37.avi
+2019-02-11 14:20:28,152 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:20:28,295 INFO check_avi_face starting video stream...
+2019-02-11 14:20:28,296 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:20:07.avi
+2019-02-11 14:20:39,138 INFO root send email is ok
+2019-02-11 14:20:39,162 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:20:39,163 INFO face_to_email_send finish send email
+2019-02-11 14:20:44,529 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:20:07.avi:no faces in videos
+2019-02-11 14:21:26,117 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:21:26.avi
+2019-02-11 14:21:47,272 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:21:47,485 INFO check_avi_face starting video stream...
+2019-02-11 14:21:47,488 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:21:26.avi
+2019-02-11 14:22:02,339 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:21:26.avi:no faces in videos
+2019-02-11 14:22:26,018 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:22:26.avi
+2019-02-11 14:22:47,079 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:22:47,291 INFO check_avi_face starting video stream...
+2019-02-11 14:22:47,293 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:22:26.avi
+2019-02-11 14:23:20,360 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:22:26.avi
+2019-02-11 14:23:20,362 INFO root 2019-02-11_14:22:26.avi
+2019-02-11 14:23:33,819 INFO root send email is ok
+2019-02-11 14:23:33,834 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:23:33,835 INFO face_to_email_send finish send email
+2019-02-11 14:25:35,940 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:25:35.avi
+2019-02-11 14:25:57,002 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:25:57,143 INFO check_avi_face starting video stream...
+2019-02-11 14:25:57,145 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:25:35.avi
+2019-02-11 14:26:11,973 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:25:35.avi:no faces in videos
+2019-02-11 14:27:56,397 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:27:56.avi
+2019-02-11 14:28:17,365 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:28:17,530 INFO check_avi_face starting video stream...
+2019-02-11 14:28:17,532 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:27:56.avi
+2019-02-11 14:28:35,473 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:27:56.avi
+2019-02-11 14:28:35,475 INFO root 2019-02-11_14:27:56.avi
+2019-02-11 14:28:47,232 INFO root send email is ok
+2019-02-11 14:28:47,248 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:28:47,250 INFO face_to_email_send finish send email
+2019-02-11 14:30:59,547 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:30:59.avi
+2019-02-11 14:31:05,264 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:05.avi
+2019-02-11 14:31:19,883 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:19.avi
+2019-02-11 14:31:40,947 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:31:41,066 INFO check_avi_face starting video stream...
+2019-02-11 14:31:41,068 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:30:59.avi
+2019-02-11 14:31:41,807 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:41.avi
+2019-02-11 14:31:51,487 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:51.avi
+2019-02-11 14:32:00,685 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:05.avi
+2019-02-11 14:32:11,471 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:11.avi
+2019-02-11 14:32:15,369 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:19.avi
+2019-02-11 14:32:32,487 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:32:32,743 INFO check_avi_face starting video stream...
+2019-02-11 14:32:32,746 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:41.avi
+2019-02-11 14:32:49,853 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:49.avi
+2019-02-11 14:32:56,528 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:51.avi
+2019-02-11 14:33:11,166 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:33:11,499 INFO check_avi_face starting video stream...
+2019-02-11 14:33:11,501 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:49.avi
+2019-02-11 14:33:20,283 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:11.avi
+2019-02-11 14:33:36,789 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:36.avi
+2019-02-11 14:33:47,131 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:49.avi:no faces in videos
+2019-02-11 14:33:50,564 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:41.avi:no faces in videos
+2019-02-11 14:33:50,566 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:51.avi:no faces in videos
+2019-02-11 14:33:50,567 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:32:11.avi:no faces in videos
+2019-02-11 14:33:57,218 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:57.avi
+2019-02-11 14:34:03,956 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:30:59.avi:no faces in videos
+2019-02-11 14:34:03,958 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:05.avi:no faces in videos
+2019-02-11 14:34:03,959 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:31:19.avi:no faces in videos
+2019-02-11 14:34:18,249 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:34:18,423 INFO check_avi_face starting video stream...
+2019-02-11 14:34:18,425 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:36.avi
+2019-02-11 14:34:47,333 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:57.avi
+2019-02-11 14:35:01,292 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:36.avi:no faces in videos
+2019-02-11 14:35:01,293 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:33:57.avi:no faces in videos
+2019-02-11 14:35:13,093 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:13.avi
+2019-02-11 14:35:32,028 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:32.avi
+2019-02-11 14:35:53,236 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:35:53,399 INFO check_avi_face starting video stream...
+2019-02-11 14:35:53,401 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:13.avi
+2019-02-11 14:36:10,771 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:32.avi
+2019-02-11 14:36:33,076 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:13.avi:no faces in videos
+2019-02-11 14:36:33,078 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:35:32.avi
+2019-02-11 14:36:33,078 INFO root 2019-02-11_14:35:32.avi
+2019-02-11 14:36:46,049 INFO root send email is ok
+2019-02-11 14:36:46,068 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:36:46,070 INFO face_to_email_send finish send email
+2019-02-11 14:37:49,394 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:49.avi
+2019-02-11 14:37:57,553 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:57.avi
+2019-02-11 14:38:18,772 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:38:18,966 INFO check_avi_face starting video stream...
+2019-02-11 14:38:18,968 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:49.avi
+2019-02-11 14:38:36,423 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:57.avi
+2019-02-11 14:39:33,506 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:49.avi:no faces in videos
+2019-02-11 14:39:33,507 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:37:57.avi
+2019-02-11 14:39:33,508 INFO root 2019-02-11_14:37:57.avi
+2019-02-11 14:40:07,739 INFO root send email is ok
+2019-02-11 14:40:07,758 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:40:07,760 INFO face_to_email_send finish send email
+2019-02-11 14:40:43,322 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:40:43.avi
+2019-02-11 14:41:04,382 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:41:04,533 INFO check_avi_face starting video stream...
+2019-02-11 14:41:04,535 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:40:43.avi
+2019-02-11 14:41:27,253 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:40:43.avi:no faces in videos
+2019-02-11 14:41:43,384 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:41:43.avi
+2019-02-11 14:42:04,502 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:42:04,716 INFO check_avi_face starting video stream...
+2019-02-11 14:42:04,718 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:41:43.avi
+2019-02-11 14:42:30,633 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:41:43.avi
+2019-02-11 14:42:30,635 INFO root 2019-02-11_14:41:43.avi
+2019-02-11 14:42:48,274 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:42:48.avi
+2019-02-11 14:42:52,240 INFO root send email is ok
+2019-02-11 14:42:52,260 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:42:52,261 INFO face_to_email_send finish send email
+2019-02-11 14:43:09,343 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:43:09,501 INFO check_avi_face starting video stream...
+2019-02-11 14:43:09,502 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:42:48.avi
+2019-02-11 14:43:28,852 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:42:48.avi:no faces in videos
+2019-02-11 14:44:49,331 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:44:49.avi
+2019-02-11 14:45:10,357 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:45:10,514 INFO check_avi_face starting video stream...
+2019-02-11 14:45:10,516 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:44:49.avi
+2019-02-11 14:45:41,726 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:44:49.avi:no faces in videos
+2019-02-11 14:46:25,267 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:46:25.avi
+2019-02-11 14:46:46,293 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:46:46,493 INFO check_avi_face starting video stream...
+2019-02-11 14:46:46,495 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:46:25.avi
+2019-02-11 14:47:00,348 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:46:25.avi:no faces in videos
+2019-02-11 14:51:27,668 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:51:27.avi
+2019-02-11 14:51:48,739 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:51:48,903 INFO check_avi_face starting video stream...
+2019-02-11 14:51:48,905 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:51:27.avi
+2019-02-11 14:52:00,137 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:52:00.avi
+2019-02-11 14:52:13,824 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:51:27.avi
+2019-02-11 14:52:13,825 INFO root 2019-02-11_14:51:27.avi
+2019-02-11 14:52:21,338 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:52:21,722 INFO check_avi_face starting video stream...
+2019-02-11 14:52:21,740 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:52:00.avi
+2019-02-11 14:52:26,603 INFO root send email is ok
+2019-02-11 14:52:26,622 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:52:26,623 INFO face_to_email_send finish send email
+2019-02-11 14:52:37,877 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:52:00.avi
+2019-02-11 14:52:37,878 INFO root 2019-02-11_14:52:00.avi
+2019-02-11 14:53:02,990 INFO root send email is ok
+2019-02-11 14:53:03,057 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:53:03,058 INFO face_to_email_send finish send email
+2019-02-11 14:54:05,070 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:05.avi
+2019-02-11 14:54:08,719 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:08.avi
+2019-02-11 14:54:29,781 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:54:29,941 INFO check_avi_face starting video stream...
+2019-02-11 14:54:29,943 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:05.avi
+2019-02-11 14:54:48,005 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:08.avi
+2019-02-11 14:55:05,896 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:05.avi
+2019-02-11 14:55:05,898 INFO root 2019-02-11_14:54:05.avi
+2019-02-11 14:55:10,680 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:54:08.avi
+2019-02-11 14:55:10,682 INFO root 2019-02-11_14:54:08.avi
+2019-02-11 14:55:16,105 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:16.avi
+2019-02-11 14:55:25,316 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:25.avi
+2019-02-11 14:55:27,077 INFO root send email is ok
+2019-02-11 14:55:27,108 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:55:27,109 INFO face_to_email_send finish send email
+2019-02-11 14:55:46,294 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:55:46,446 INFO check_avi_face starting video stream...
+2019-02-11 14:55:46,447 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:16.avi
+2019-02-11 14:56:06,418 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:25.avi
+2019-02-11 14:56:17,457 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:17.avi
+2019-02-11 14:56:24,499 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:16.avi
+2019-02-11 14:56:24,500 INFO root 2019-02-11_14:55:16.avi
+2019-02-11 14:56:29,457 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:55:25.avi
+2019-02-11 14:56:29,459 INFO root 2019-02-11_14:55:25.avi
+2019-02-11 14:56:29,463 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:29.avi
+2019-02-11 14:56:42,803 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:42.avi
+2019-02-11 14:56:54,462 INFO root send email is ok
+2019-02-11 14:56:54,511 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:56:54,512 INFO face_to_email_send finish send email
+2019-02-11 14:57:03,376 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:57:03.avi
+2019-02-11 14:57:24,405 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:57:24,570 INFO check_avi_face starting video stream...
+2019-02-11 14:57:24,572 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:17.avi
+2019-02-11 14:57:40,641 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:29.avi
+2019-02-11 14:57:55,398 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:42.avi
+2019-02-11 14:58:11,935 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:57:03.avi
+2019-02-11 14:58:19,627 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:19.avi
+2019-02-11 14:58:35,683 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:17.avi:no faces in videos
+2019-02-11 14:58:35,684 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:29.avi:no faces in videos
+2019-02-11 14:58:35,685 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:56:42.avi
+2019-02-11 14:58:35,686 INFO root 2019-02-11_14:56:42.avi
+2019-02-11 14:58:40,516 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:57:03.avi
+2019-02-11 14:58:40,518 INFO root 2019-02-11_14:57:03.avi
+2019-02-11 14:58:47,105 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:47.avi
+2019-02-11 14:58:58,853 INFO root send email is ok
+2019-02-11 14:58:58,870 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 14:58:58,871 INFO face_to_email_send finish send email
+2019-02-11 14:59:01,714 INFO check_avi_face loading encodings + face detector...
+2019-02-11 14:59:01,875 INFO check_avi_face starting video stream...
+2019-02-11 14:59:01,877 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:19.avi
+2019-02-11 14:59:09,695 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:09.avi
+2019-02-11 14:59:27,058 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:27.avi
+2019-02-11 14:59:37,962 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:47.avi
+2019-02-11 14:59:39,854 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:39.avi
+2019-02-11 14:59:49,343 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:49.avi
+2019-02-11 14:59:57,079 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:19.avi
+2019-02-11 14:59:57,082 INFO root 2019-02-11_14:58:19.avi
+2019-02-11 15:00:05,835 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:58:47.avi
+2019-02-11 15:00:05,837 INFO root 2019-02-11_14:58:47.avi
+2019-02-11 15:00:05,841 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:05.avi
+2019-02-11 15:00:25,743 INFO root send email is ok
+2019-02-11 15:00:25,768 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:00:25,773 INFO face_to_email_send finish send email
+2019-02-11 15:00:26,736 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:00:26,885 INFO check_avi_face starting video stream...
+2019-02-11 15:00:26,887 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:09.avi
+2019-02-11 15:00:35,415 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:35.avi
+2019-02-11 15:00:43,689 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:27.avi
+2019-02-11 15:00:59,986 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:01:00,298 INFO check_avi_face starting video stream...
+2019-02-11 15:01:00,300 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:35.avi
+2019-02-11 15:01:00,415 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:39.avi
+2019-02-11 15:01:31,268 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:49.avi
+2019-02-11 15:02:03,840 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:05.avi
+2019-02-11 15:02:30,162 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:35.avi
+2019-02-11 15:02:30,179 INFO root 2019-02-11_15:00:35.avi
+2019-02-11 15:02:51,260 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:09.avi
+2019-02-11 15:02:51,262 INFO root 2019-02-11_14:59:09.avi
+2019-02-11 15:02:56,825 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:27.avi
+2019-02-11 15:02:56,837 INFO root 2019-02-11_14:59:27.avi
+2019-02-11 15:03:02,288 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:02.avi
+2019-02-11 15:03:02,598 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:39.avi
+2019-02-11 15:03:02,599 INFO root 2019-02-11_14:59:39.avi
+2019-02-11 15:03:11,145 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_14:59:49.avi
+2019-02-11 15:03:11,147 INFO root 2019-02-11_14:59:49.avi
+2019-02-11 15:03:17,341 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:00:05.avi
+2019-02-11 15:03:17,342 INFO root 2019-02-11_15:00:05.avi
+2019-02-11 15:03:29,217 INFO root send email is ok
+2019-02-11 15:03:30,731 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:03:30,732 INFO face_to_email_send finish send email
+2019-02-11 15:03:34,154 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:03:34,300 INFO check_avi_face starting video stream...
+2019-02-11 15:03:34,302 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:02.avi
+2019-02-11 15:03:37,325 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:37.avi
+2019-02-11 15:03:51,479 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:02.avi
+2019-02-11 15:03:51,481 INFO root 2019-02-11_15:03:02.avi
+2019-02-11 15:03:59,264 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:03:59,476 INFO check_avi_face starting video stream...
+2019-02-11 15:03:59,483 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:37.avi
+2019-02-11 15:04:02,921 INFO root send email is ok
+2019-02-11 15:04:02,945 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:04:02,945 INFO face_to_email_send finish send email
+2019-02-11 15:04:14,467 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:03:37.avi:no faces in videos
+2019-02-11 15:04:16,110 INFO root send email is ok
+2019-02-11 15:04:16,141 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:04:16,142 INFO face_to_email_send finish send email
+2019-02-11 15:05:13,163 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:13.avi
+2019-02-11 15:05:30,694 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:30.avi
+2019-02-11 15:05:51,723 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:05:51,883 INFO check_avi_face starting video stream...
+2019-02-11 15:05:51,886 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:13.avi
+2019-02-11 15:06:09,764 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:30.avi
+2019-02-11 15:06:22,481 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:13.avi
+2019-02-11 15:06:22,482 INFO root 2019-02-11_15:05:13.avi
+2019-02-11 15:06:29,157 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:05:30.avi:no faces in videos
+2019-02-11 15:06:40,818 INFO root send email is ok
+2019-02-11 15:06:40,848 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:06:40,848 INFO face_to_email_send finish send email
+2019-02-11 15:07:09,943 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:09.avi
+2019-02-11 15:07:24,286 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:24.avi
+2019-02-11 15:07:35,161 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:35.avi
+2019-02-11 15:07:56,317 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:07:56,521 INFO check_avi_face starting video stream...
+2019-02-11 15:07:56,524 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:09.avi
+2019-02-11 15:08:08,933 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:24.avi
+2019-02-11 15:08:23,487 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:35.avi
+2019-02-11 15:08:45,541 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:09.avi:no faces in videos
+2019-02-11 15:08:45,543 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:24.avi:no faces in videos
+2019-02-11 15:08:45,544 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:07:35.avi:no faces in videos
+2019-02-11 15:12:11,308 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:11.avi
+2019-02-11 15:12:31,499 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:31.avi
+2019-02-11 15:12:52,560 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:12:52,792 INFO check_avi_face starting video stream...
+2019-02-11 15:12:52,793 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:11.avi
+2019-02-11 15:12:57,967 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:57.avi
+2019-02-11 15:13:17,375 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:31.avi
+2019-02-11 15:13:19,067 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:13:19,320 INFO check_avi_face starting video stream...
+2019-02-11 15:13:19,322 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:57.avi
+2019-02-11 15:13:46,740 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:57.avi:no faces in videos
+2019-02-11 15:14:03,187 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:11.avi
+2019-02-11 15:14:03,188 INFO root 2019-02-11_15:12:11.avi
+2019-02-11 15:14:11,125 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:12:31.avi:no faces in videos
+2019-02-11 15:14:11,129 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:11.avi
+2019-02-11 15:14:24,028 INFO root send email is ok
+2019-02-11 15:14:24,053 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:14:24,055 INFO face_to_email_send finish send email
+2019-02-11 15:14:31,868 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:14:32,028 INFO check_avi_face starting video stream...
+2019-02-11 15:14:32,030 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:11.avi
+2019-02-11 15:14:45,247 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:45.avi
+2019-02-11 15:14:46,792 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:11.avi:no faces in videos
+2019-02-11 15:14:50,088 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:50.avi
+2019-02-11 15:15:11,211 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:15:11,372 INFO check_avi_face starting video stream...
+2019-02-11 15:15:11,374 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:45.avi
+2019-02-11 15:15:28,051 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:50.avi
+2019-02-11 15:15:49,207 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:45.avi:no faces in videos
+2019-02-11 15:15:49,208 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:14:50.avi
+2019-02-11 15:15:49,209 INFO root 2019-02-11_15:14:50.avi
+2019-02-11 15:16:04,364 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:04.avi
+2019-02-11 15:16:12,965 INFO root send email is ok
+2019-02-11 15:16:12,981 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:16:12,983 INFO face_to_email_send finish send email
+2019-02-11 15:16:25,455 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:16:25,619 INFO check_avi_face starting video stream...
+2019-02-11 15:16:25,621 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:04.avi
+2019-02-11 15:16:41,092 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:41.avi
+2019-02-11 15:16:45,368 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:04.avi
+2019-02-11 15:16:45,369 INFO root 2019-02-11_15:16:04.avi
+2019-02-11 15:16:51,731 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:51.avi
+2019-02-11 15:16:58,942 INFO root send email is ok
+2019-02-11 15:16:58,995 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:16:58,996 INFO face_to_email_send finish send email
+2019-02-11 15:17:12,731 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:17:12,891 INFO check_avi_face starting video stream...
+2019-02-11 15:17:12,893 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:41.avi
+2019-02-11 15:17:28,603 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:51.avi
+2019-02-11 15:17:44,634 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:41.avi
+2019-02-11 15:17:44,638 INFO root 2019-02-11_15:16:41.avi
+2019-02-11 15:17:49,475 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:16:51.avi
+2019-02-11 15:17:49,477 INFO root 2019-02-11_15:16:51.avi
+2019-02-11 15:18:04,676 INFO root send email is ok
+2019-02-11 15:18:04,700 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:18:04,701 INFO face_to_email_send finish send email
+2019-02-11 15:18:05,224 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:18:05.avi
+2019-02-11 15:18:26,230 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:18:26,394 INFO check_avi_face starting video stream...
+2019-02-11 15:18:26,396 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:18:05.avi
+2019-02-11 15:18:42,370 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:18:05.avi
+2019-02-11 15:18:42,371 INFO root 2019-02-11_15:18:05.avi
+2019-02-11 15:18:52,223 INFO root send email is ok
+2019-02-11 15:18:52,239 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:18:52,240 INFO face_to_email_send finish send email
+2019-02-11 15:20:29,066 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:20:29.avi
+2019-02-11 15:20:50,157 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:20:50,323 INFO check_avi_face starting video stream...
+2019-02-11 15:20:50,326 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:20:29.avi
+2019-02-11 15:21:05,027 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:20:29.avi:no faces in videos
+2019-02-11 15:22:54,460 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:54.avi
+2019-02-11 15:22:59,962 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:59.avi
+2019-02-11 15:23:06,866 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:06.avi
+2019-02-11 15:23:10,465 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:10.avi
+2019-02-11 15:23:31,447 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:23:31,594 INFO check_avi_face starting video stream...
+2019-02-11 15:23:31,596 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:54.avi
+2019-02-11 15:23:34,629 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:34.avi
+2019-02-11 15:23:50,981 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:59.avi
+2019-02-11 15:23:52,587 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:52.avi
+2019-02-11 15:24:08,780 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:06.avi
+2019-02-11 15:24:13,807 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:24:14,028 INFO check_avi_face starting video stream...
+2019-02-11 15:24:14,029 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:34.avi
+2019-02-11 15:24:33,844 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:10.avi
+2019-02-11 15:24:33,863 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:52.avi
+2019-02-11 15:24:44,007 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:43.avi
+2019-02-11 15:24:56,937 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:56.avi
+2019-02-11 15:25:04,545 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:34.avi:no faces in videos
+2019-02-11 15:25:04,546 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:52.avi:no faces in videos
+2019-02-11 15:25:18,007 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:25:18,252 INFO check_avi_face starting video stream...
+2019-02-11 15:25:18,268 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:43.avi
+2019-02-11 15:25:24,797 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:25:24.avi
+2019-02-11 15:25:27,701 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:54.avi
+2019-02-11 15:25:27,702 INFO root 2019-02-11_15:22:54.avi
+2019-02-11 15:25:33,381 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:22:59.avi
+2019-02-11 15:25:33,385 INFO root 2019-02-11_15:22:59.avi
+2019-02-11 15:25:39,200 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:06.avi:no faces in videos
+2019-02-11 15:25:39,217 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:23:10.avi
+2019-02-11 15:25:39,221 INFO root 2019-02-11_15:23:10.avi
+2019-02-11 15:25:51,292 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:25:51,473 INFO check_avi_face starting video stream...
+2019-02-11 15:25:51,523 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:25:24.avi
+2019-02-11 15:26:14,185 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:14.avi
+2019-02-11 15:26:15,453 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:56.avi
+2019-02-11 15:26:19,117 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:25:24.avi
+2019-02-11 15:26:19,118 INFO root 2019-02-11_15:25:24.avi
+2019-02-11 15:26:29,883 INFO root send email is ok
+2019-02-11 15:26:29,959 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:26:29,960 INFO face_to_email_send finish send email
+2019-02-11 15:26:35,320 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:26:35,533 INFO check_avi_face starting video stream...
+2019-02-11 15:26:35,535 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:14.avi
+2019-02-11 15:26:36,457 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:36.avi
+2019-02-11 15:26:40,073 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:43.avi
+2019-02-11 15:26:40,074 INFO root 2019-02-11_15:24:43.avi
+2019-02-11 15:26:43,730 INFO root send email is ok
+2019-02-11 15:26:45,622 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:26:45,634 INFO face_to_email_send finish send email
+2019-02-11 15:26:46,181 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:24:56.avi
+2019-02-11 15:26:46,183 INFO root 2019-02-11_15:24:56.avi
+2019-02-11 15:26:57,732 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:26:58,184 INFO check_avi_face starting video stream...
+2019-02-11 15:26:58,258 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:36.avi
+2019-02-11 15:27:11,435 INFO root send email is ok
+2019-02-11 15:27:11,470 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:27:11,471 INFO face_to_email_send finish send email
+2019-02-11 15:27:17,419 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:14.avi
+2019-02-11 15:27:17,421 INFO root 2019-02-11_15:26:14.avi
+2019-02-11 15:27:38,835 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:26:36.avi
+2019-02-11 15:27:38,840 INFO root 2019-02-11_15:26:36.avi
+2019-02-11 15:27:43,949 INFO root send email is ok
+2019-02-11 15:27:46,558 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:27:46,570 INFO face_to_email_send finish send email
+2019-02-11 15:27:58,500 INFO root send email is ok
+2019-02-11 15:27:58,526 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:27:58,527 INFO face_to_email_send finish send email
+2019-02-11 15:30:58,872 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:30:58.avi
+2019-02-11 15:31:19,913 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:31:20,062 INFO check_avi_face starting video stream...
+2019-02-11 15:31:20,064 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:30:58.avi
+2019-02-11 15:31:35,238 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:30:58.avi:no faces in videos
+2019-02-11 15:32:35,240 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:35.avi
+2019-02-11 15:32:43,302 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:43.avi
+2019-02-11 15:33:04,372 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:33:04,529 INFO check_avi_face starting video stream...
+2019-02-11 15:33:04,532 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:35.avi
+2019-02-11 15:33:17,549 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:43.avi
+2019-02-11 15:33:30,771 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:35.avi:no faces in videos
+2019-02-11 15:33:30,772 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:32:43.avi:no faces in videos
+2019-02-11 15:36:04,256 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:04.avi
+2019-02-11 15:36:21,846 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:21.avi
+2019-02-11 15:36:25,390 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:25.avi
+2019-02-11 15:36:46,497 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:36:46,656 INFO check_avi_face starting video stream...
+2019-02-11 15:36:46,658 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:04.avi
+2019-02-11 15:37:07,669 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:21.avi
+2019-02-11 15:37:18,069 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:18.avi
+2019-02-11 15:37:23,194 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:25.avi
+2019-02-11 15:37:36,067 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:36.avi
+2019-02-11 15:37:36,644 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:04.avi:no faces in videos
+2019-02-11 15:37:36,645 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:21.avi:no faces in videos
+2019-02-11 15:37:36,646 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:36:25.avi:no faces in videos
+2019-02-11 15:37:56,932 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:37:57,100 INFO check_avi_face starting video stream...
+2019-02-11 15:37:57,106 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:18.avi
+2019-02-11 15:38:09,267 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:09.avi
+2019-02-11 15:38:17,817 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:17.avi
+2019-02-11 15:38:24,791 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:36.avi
+2019-02-11 15:38:35,067 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:35.avi
+2019-02-11 15:38:46,051 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:18.avi
+2019-02-11 15:38:46,052 INFO root 2019-02-11_15:37:18.avi
+2019-02-11 15:38:54,871 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:37:36.avi:no faces in videos
+2019-02-11 15:38:56,044 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:38:56,235 INFO check_avi_face starting video stream...
+2019-02-11 15:38:56,237 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:09.avi
+2019-02-11 15:38:57,749 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:57.avi
+2019-02-11 15:39:15,058 INFO root send email is ok
+2019-02-11 15:39:15,874 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:17.avi
+2019-02-11 15:39:16,038 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:39:16,039 INFO face_to_email_send finish send email
+2019-02-11 15:39:18,876 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:39:19,124 INFO check_avi_face starting video stream...
+2019-02-11 15:39:19,126 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:57.avi
+2019-02-11 15:39:47,781 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:35.avi
+2019-02-11 15:39:50,437 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:57.avi:no faces in videos
+2019-02-11 15:40:02,147 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:02.avi
+2019-02-11 15:40:20,446 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:09.avi:no faces in videos
+2019-02-11 15:40:20,447 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:17.avi:no faces in videos
+2019-02-11 15:40:20,448 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:38:35.avi
+2019-02-11 15:40:20,448 INFO root 2019-02-11_15:38:35.avi
+2019-02-11 15:40:29,620 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:40:29,807 INFO check_avi_face starting video stream...
+2019-02-11 15:40:29,838 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:02.avi
+2019-02-11 15:40:45,644 INFO root send email is ok
+2019-02-11 15:40:45,696 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:40:45,698 INFO face_to_email_send finish send email
+2019-02-11 15:40:49,907 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:49.avi
+2019-02-11 15:40:55,645 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:02.avi:no faces in videos
+2019-02-11 15:41:10,868 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:41:11,080 INFO check_avi_face starting video stream...
+2019-02-11 15:41:11,081 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:49.avi
+2019-02-11 15:41:14,798 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:14.avi
+2019-02-11 15:41:25,607 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:25.avi
+2019-02-11 15:41:26,156 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:40:49.avi:no faces in videos
+2019-02-11 15:41:46,521 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:41:46,664 INFO check_avi_face starting video stream...
+2019-02-11 15:41:46,665 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:14.avi
+2019-02-11 15:41:48,518 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:48.avi
+2019-02-11 15:42:02,880 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:25.avi
+2019-02-11 15:42:09,677 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:42:09,975 INFO check_avi_face starting video stream...
+2019-02-11 15:42:09,988 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:48.avi
+2019-02-11 15:42:35,437 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:35.avi
+2019-02-11 15:42:41,802 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:48.avi:no faces in videos
+2019-02-11 15:42:50,139 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:14.avi
+2019-02-11 15:42:50,140 INFO root 2019-02-11_15:41:14.avi
+2019-02-11 15:42:54,807 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:41:25.avi
+2019-02-11 15:42:54,808 INFO root 2019-02-11_15:41:25.avi
+2019-02-11 15:43:04,152 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:54.avi
+2019-02-11 15:43:15,884 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:43:16,036 INFO check_avi_face starting video stream...
+2019-02-11 15:43:16,038 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:35.avi
+2019-02-11 15:43:24,544 INFO root send email is ok
+2019-02-11 15:43:24,596 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:43:24,598 INFO face_to_email_send finish send email
+2019-02-11 15:43:31,594 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:54.avi
+2019-02-11 15:43:45,648 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:35.avi:no faces in videos
+2019-02-11 15:43:45,649 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:42:54.avi:no faces in videos
+2019-02-11 15:44:27,632 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:27.avi
+2019-02-11 15:44:48,659 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:44:48,818 INFO check_avi_face starting video stream...
+2019-02-11 15:44:48,820 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:27.avi
+2019-02-11 15:44:59,249 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:59.avi
+2019-02-11 15:45:19,309 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:27.avi
+2019-02-11 15:45:19,310 INFO root 2019-02-11_15:44:27.avi
+2019-02-11 15:45:29,311 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:45:29,505 INFO check_avi_face starting video stream...
+2019-02-11 15:45:29,507 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:59.avi
+2019-02-11 15:45:42,786 INFO root send email is ok
+2019-02-11 15:45:42,823 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:45:42,824 INFO face_to_email_send finish send email
+2019-02-11 15:45:50,243 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:44:59.avi
+2019-02-11 15:45:50,249 INFO root 2019-02-11_15:44:59.avi
+2019-02-11 15:46:05,938 INFO root send email is ok
+2019-02-11 15:46:05,980 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:46:05,981 INFO face_to_email_send finish send email
+2019-02-11 15:47:03,146 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:03.avi
+2019-02-11 15:47:24,313 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:47:24,468 INFO check_avi_face starting video stream...
+2019-02-11 15:47:24,470 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:03.avi
+2019-02-11 15:47:51,310 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:03.avi
+2019-02-11 15:47:51,311 INFO root 2019-02-11_15:47:03.avi
+2019-02-11 15:47:59,017 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:59.avi
+2019-02-11 15:48:08,389 INFO root send email is ok
+2019-02-11 15:48:08,418 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:48:08,419 INFO face_to_email_send finish send email
+2019-02-11 15:48:15,967 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:48:15.avi
+2019-02-11 15:48:37,036 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:48:37,202 INFO check_avi_face starting video stream...
+2019-02-11 15:48:37,204 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:59.avi
+2019-02-11 15:49:04,016 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:48:15.avi
+2019-02-11 15:49:17,744 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:47:59.avi:no faces in videos
+2019-02-11 15:49:17,746 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:48:15.avi:no faces in videos
+2019-02-11 15:50:24,534 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:50:24.avi
+2019-02-11 15:50:45,577 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:50:45,731 INFO check_avi_face starting video stream...
+2019-02-11 15:50:45,734 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:50:24.avi
+2019-02-11 15:51:22,766 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:50:24.avi
+2019-02-11 15:51:22,768 INFO root 2019-02-11_15:50:24.avi
+2019-02-11 15:51:53,543 INFO root send email is ok
+2019-02-11 15:51:53,570 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:51:53,571 INFO face_to_email_send finish send email
+2019-02-11 15:53:43,924 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:53:43.avi
+2019-02-11 15:54:04,951 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:54:05,082 INFO check_avi_face starting video stream...
+2019-02-11 15:54:05,088 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:53:43.avi
+2019-02-11 15:54:59,784 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:54:59.avi
+2019-02-11 15:55:14,935 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:55:14.avi
+2019-02-11 15:55:26,929 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:53:43.avi
+2019-02-11 15:55:26,932 INFO root 2019-02-11_15:53:43.avi
+2019-02-11 15:55:45,989 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:55:46,205 INFO check_avi_face starting video stream...
+2019-02-11 15:55:46,215 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:54:59.avi
+2019-02-11 15:56:05,636 INFO root send email is ok
+2019-02-11 15:56:05,662 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:56:05,663 INFO face_to_email_send finish send email
+2019-02-11 15:56:08,499 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:55:14.avi
+2019-02-11 15:56:25,560 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:54:59.avi:no faces in videos
+2019-02-11 15:56:25,561 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:55:14.avi
+2019-02-11 15:56:25,562 INFO root 2019-02-11_15:55:14.avi
+2019-02-11 15:56:37,001 INFO root send email is ok
+2019-02-11 15:56:37,018 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 15:56:37,019 INFO face_to_email_send finish send email
+2019-02-11 15:58:22,875 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:58:22.avi
+2019-02-11 15:58:43,934 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:58:44,096 INFO check_avi_face starting video stream...
+2019-02-11 15:58:44,098 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:58:22.avi
+2019-02-11 15:58:57,122 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:58:22.avi:no faces in videos
+2019-02-11 15:59:17,246 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:59:17.avi
+2019-02-11 15:59:38,275 INFO check_avi_face loading encodings + face detector...
+2019-02-11 15:59:38,439 INFO check_avi_face starting video stream...
+2019-02-11 15:59:38,441 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:59:17.avi
+2019-02-11 16:00:02,719 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_15:59:17.avi
+2019-02-11 16:00:02,725 INFO root 2019-02-11_15:59:17.avi
+2019-02-11 16:00:24,018 INFO root send email is ok
+2019-02-11 16:00:24,034 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 16:00:24,035 INFO face_to_email_send finish send email
+2019-02-11 16:01:16,709 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:01:16.avi
+2019-02-11 16:01:37,764 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:01:37,917 INFO check_avi_face starting video stream...
+2019-02-11 16:01:37,919 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:01:16.avi
+2019-02-11 16:02:02,136 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:01:16.avi:no faces in videos
+2019-02-11 16:04:57,436 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:04:57.avi
+2019-02-11 16:05:18,589 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:05:18,749 INFO check_avi_face starting video stream...
+2019-02-11 16:05:18,750 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:04:57.avi
+2019-02-11 16:05:36,648 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:04:57.avi:no faces in videos
+2019-02-11 16:06:51,666 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:06:51.avi
+2019-02-11 16:07:12,724 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:07:12,889 INFO check_avi_face starting video stream...
+2019-02-11 16:07:12,891 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:06:51.avi
+2019-02-11 16:07:34,226 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:06:51.avi
+2019-02-11 16:07:34,227 INFO root 2019-02-11_16:06:51.avi
+2019-02-11 16:07:57,359 INFO root send email is ok
+2019-02-11 16:07:57,375 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 16:07:57,377 INFO face_to_email_send finish send email
+2019-02-11 16:08:32,486 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:32.avi
+2019-02-11 16:08:53,573 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:08:53,739 INFO check_avi_face starting video stream...
+2019-02-11 16:08:53,741 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:32.avi
+2019-02-11 16:08:59,648 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:59.avi
+2019-02-11 16:09:21,437 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:09:21,611 INFO check_avi_face starting video stream...
+2019-02-11 16:09:21,613 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:59.avi
+2019-02-11 16:09:45,438 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:59.avi
+2019-02-11 16:09:45,439 INFO root 2019-02-11_16:08:59.avi
+2019-02-11 16:10:01,510 INFO root send email is ok
+2019-02-11 16:10:01,538 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 16:10:01,539 INFO face_to_email_send finish send email
+2019-02-11 16:10:09,558 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:08:32.avi
+2019-02-11 16:10:09,559 INFO root 2019-02-11_16:08:32.avi
+2019-02-11 16:11:05,945 INFO root send email is ok
+2019-02-11 16:11:05,963 INFO face_to_email_send pictures or videos are transfered
+2019-02-11 16:11:05,965 INFO face_to_email_send finish send email
+2019-02-11 16:11:59,030 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:11:59.avi
+2019-02-11 16:12:20,227 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:12:20,384 INFO check_avi_face starting video stream...
+2019-02-11 16:12:20,386 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:11:59.avi
+2019-02-11 16:12:37,219 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:11:59.avi:no faces in videos
+2019-02-11 16:16:30,966 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:30.avi
+2019-02-11 16:16:41,782 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:41.avi
+2019-02-11 16:16:58,164 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:58.avi
+2019-02-11 16:17:19,316 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:17:19,458 INFO check_avi_face starting video stream...
+2019-02-11 16:17:19,460 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:30.avi
+2019-02-11 16:17:36,098 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:41.avi
+2019-02-11 16:17:50,172 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:58.avi
+2019-02-11 16:18:07,790 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:30.avi:no faces in videos
+2019-02-11 16:18:07,791 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:41.avi:no faces in videos
+2019-02-11 16:18:07,792 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:16:58.avi:no faces in videos
+2019-02-11 16:18:18,659 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:18:18.avi
+2019-02-11 16:18:39,776 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:18:39,937 INFO check_avi_face starting video stream...
+2019-02-11 16:18:39,939 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:18:18.avi
+2019-02-11 16:19:01,746 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:18:18.avi:no faces in videos
+2019-02-11 16:22:46,929 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:22:46.avi
+2019-02-11 16:23:04,464 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:23:04.avi
+2019-02-11 16:23:11,255 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:23:11.avi
+2019-02-11 16:23:32,345 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:23:32,541 INFO check_avi_face starting video stream...
+2019-02-11 16:23:32,543 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:22:46.avi
+2019-02-11 16:24:08,715 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:23:04.avi
+2019-02-11 16:24:28,370 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:24:28.avi
+2019-02-11 16:24:33,859 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:23:11.avi
+2019-02-11 16:24:49,443 INFO check_avi_face loading encodings + face detector...
+2019-02-11 16:24:49,715 INFO check_avi_face starting video stream...
+2019-02-11 16:24:49,717 INFO check_avi_face /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:24:28.avi
+2019-02-11 16:24:56,187 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:24:56.avi
+2019-02-11 16:25:09,710 INFO face_to_email_send /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:24:28.avi
+2019-02-11 16:25:09,761 INFO root 2019-02-11_16:24:28.avi
+2019-02-11 16:25:15,984 INFO pi_surveillance [UPLOAD VIDEOS] /home/pi/Desktop/pi_camera_fetcher/move_video_path/2019-02-11_16:25:15.avi
